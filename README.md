@@ -1,11 +1,11 @@
 # jouneytoquantness
 A consolidated account of my journey from monkey to quant.
-Journey Started on: 1 Mar 2019
-Correct As Of 24 Oct 2019
+- Journey Started on: 1 Mar 2019
+- Correct As Of 24 Oct 2019
 
 <b>Degrees</b>:
 
-BSc Finance & Business (Oct 2019)
+1. BSc Finance & Business (Oct 2019)
 	- Modules:
 		- Financial Reporting and Analysis
 		- Applying E-commerce in Business
@@ -29,31 +29,121 @@ BSc Finance & Business (Oct 2019)
 	- Completion: 55%
 	- Retention: 15%
 	- URL: https://www.udemy.com/course/the-complete-investment-banking-course-2016/
+	- Core Concepts:
+		- Capital Markets
+		- Advisory Services
+		- Trading & Brokerage
+		- Asset Management
+		- Company Valuation
+		- Financial Valuation
+		- DCF Valuation
+		- LBO Valuation
 
 2. Udacity Introduction to Programming
 	- Completion: 100%
-	- Rentention: 10
+	- Retention: 10
 	- URL: https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
+	- Core Concepts:
+		- Intro to HTML
+		- Intro to CSS
+		- Intro to Python
+		- Intro to JavaScript
+		- Introduction to Data Science
 
 3. Udemy Python for Financial Analysis & Algorithmic Trading
 	- Completion: 100%
 	- Retention: 20%
 	- URL: https://www.udemy.com/course/python-for-finance-and-trading-algorithms/
+	- Core Concepts:
+		- Python Fundamentals
+		- NumPy for High Speed Numerical Processing
+		- Pandas for Efficient Data Analysis
+		- Matplotlib for Data Visualization
+		- Using pandas-datareader and Quandl for data ingestion
+		- Pandas Time Series Analysis Techniques
+		- Stock Returns Analysis
+		- Cumulative Daily Returns
+		- Volatility and Securities Risk
+		- EWMA (Exponentially Weighted Moving Average)
+		- Statsmodels
+		- ETS (Error-Trend-Seasonality)
+		- ARIMA (Auto-regressive Integrated Moving Averages)
+		- Auto Correlation Plots and Partial Auto Correlation Plots
+		- Sharpe Ratio
+		- Portfolio Allocation Optimization 
+		- Efficient Frontier and Markowitz Optimization
+		- Types of Funds
+		- Order Books
+		- Short Selling
+		- Capital Asset Pricing Model
+		- Stock Splits and Dividends
+		- Efficient Market Hypothesis
+		- Algorithmic Trading with Quantopian
+		- Futures Trading
 
 4. Udemy Beginning C++ Programming
 	- Completion: 60%
 	- Retention: 15%
 	- URL: https://www.udemy.com/course/beginning-c-plus-plus-programming/
+	- Core Concepts:
+		- Looping with while, do/while for, range-based for statements and recursion
+		- Performing calculations and displaying results
+		- Functions
+		- Pointers
+		- Using existing classes and creating objects
+		- Creating your own classes
+		- Using Basic Standard Template Library classes such as Vector
+		- Constructors and Destructors
+		- Copy and Move semantics including Copy constructors, Move constructors, and copy and move assignment 
+		- How to overload operators
+		- Using inheritance and class hierarchies
+		- Using Polymorphic functions and dynamic binding 
+		- Using smart pointers
+		- Using stream I/O
+		- An introduction to the C++ STL
+		- An introduction to Exception Handling
 
 5. Udemy Complete Python Bootcamp
 	- Completion: 100%
 	- Retention: 10%
 	- URL: https://www.udemy.com/course/complete-python-bootcamp/
+		- Command Line Basics
+		- Data Structures
+		- Data Types
+		- Functions
+		- Scope
+		- Arbitrary Arguments
+		- Built-in Functions
+		- Debugging and Error Handling
+		- Modules
+		- External Modules
+		- Object Oriented Programming
+		- Inheritance
+		- Polymorphism
+		- File I/O
+		- Advanced Methods
+		- Unit Tests
 
 6. DataCamp Data Scientist Track
 	- Completion: 65%
 	- Retention: 20%
 	- URL: https://www.datacamp.com/tracks/data-scientist-with-python?version=2
+	- Core Concepts:
+		- Introduction to Python
+		- Intermediate Python for Data Science
+		- Python Data Science
+		- Importing Data in Python
+		- Cleaning Data in Python
+		- Pandas
+		- SQL
+		- Data Visualisation
+		- Statistical Thinking
+		- Shell
+		- Supervised Learning
+		- Unsupervised Learning
+		- Machine Learning Tree Models
+		- Deep Learning
+		- Network Analysis
 
 8. WallStreetPrep Financial Modelling
 	- Completion: 45%
@@ -62,13 +152,26 @@ BSc Finance & Business (Oct 2019)
 
 9. Udemy HFT & Dark Pools
 	- Completion: 100%
-	- Rentention: 15%
+	- Retention: 15%
 	- URL: https://www.udemy.com/course/high-frequency-trading-dark-pools/
+	- Core Concepts:
+		- High Frequency Trading
+		- Dark Pools
+		- Trading Strategies
 
 10. Udemy WQU Introduction to Data Science
 	- Completion: 100%
 	- Retention: 40%
 	- URL: https://wqu.org/
+	- Core Concepts:
+		- Program flow, data structures
+		- Data structures, algorithms, classes
+		- Data formats
+		- Multi-dimensional arrays and vectorization in NumPy
+		- DataFrame, Series, data ingestion and transformation with pandas
+		- Data aggregation in pandas
+		- SQL and Object-Relational Mapping
+		- Data munging
 
 <b>Minimodules</b>:
 
@@ -81,11 +184,27 @@ BSc Finance & Business (Oct 2019)
 	- Completion: 100%
 	- Retention: 33%
 	- URL: https://www.cfainstitute.org/
+	- Core Concepts:
+		- Ethical and Professional Standards
+		- Corporate Finance	7
+		- Economics
+		- Financial Reporting and Analysis
+		- Quantitative Methods
+		- Alternative Investments	4
+		- Derivatives
+		- Equity Investments
+		- Fixed Income
+		- Portfolio Management and Wealth Planning
 
 3. Bloomberg Market Concepts
 	- Completion: 100%
 	- Retention: 20%
 	- URL: https://www.bloomberg.com/professional/product/bloomberg-market-concepts/
+	- Core Concepts:
+		- Economic Indicators
+		- Currencies
+		- Fixed Income
+		- Equities
 	
 <b>Books(Coming Soon)</b>:
 
@@ -94,7 +213,25 @@ BSc Finance & Business (Oct 2019)
 <b>In Progress</b>:
 
 1. WQU Machine Learning
-2. Accelerated Computer Science Program
+	- URL: https://wqu.org/
+	- Core Concepts:
+		- Introduction to Machine Learning
+		- Regression and classification
+		- Metrics and overfitting
+		- Model selection
+		- Principal Component Analysis and Dimensionality Reduction 
+		- Feature engineering
+		- Statistical methods and nonparametric analysis, probability distributions
+		- Ensemble methods
+		- Support Vector Machine and Natural Language Processing
+
+2. Accelerated Computer Science Fundamentals
+	- URL: https://www.coursera.org/learn/cs-fundamentals
+	- Core Concepts:
+		- Object Oriented Data Structures
+		- Ordered Data Structures
+		- Unordered Data Structures
+		
 3. Flutter & Dart
 
 ------------------------------------------------------------------------------------------------------------------------
