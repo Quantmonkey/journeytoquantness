@@ -1,4 +1,4 @@
-# jouneytoquantness
+# journeytoquantness
 A consolidated account of my journey from monkey to quant.
 - Journey Started on: 1 Mar 2019
 - Correct As Of 24 Oct 2019
@@ -159,10 +159,11 @@ A consolidated account of my journey from monkey to quant.
 		- Dark Pools
 		- Trading Strategies
 
-10. Udemy WQU Introduction to Data Science
+10. WQU Introduction to Data Science
 	- Completion: 100%
 	- Retention: 40%
 	- URL: https://wqu.org/
+	- Cert: https://wqu.thedataincubator.com/certificate/5278978654863360
 	- Core Concepts:
 		- Program flow, data structures
 		- Data structures, algorithms, classes
