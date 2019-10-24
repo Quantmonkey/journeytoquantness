@@ -1,8 +1,10 @@
 # jouneytoquantness
-A consolidated account of my journey from monkey to quant. Journey Started on: 1 Mar 2019
+A consolidated account of my journey from monkey to quant.
+Journey Started on: 1 Mar 2019
 Correct As Of 24 Oct 2019
 
 <b>Degrees</b>:
+
 BSc Finance & Business (Oct 2019)
 -	Modules:
 	- Financial Reporting and Analysis
@@ -22,6 +24,7 @@ BSc Finance & Business (Oct 2019)
 	- International Banking
 
 <b>Courses</b>:
+
 1. Udemy The Complete Investment Banking Course
 - Completion: 55%
 - Retention: 15%
@@ -68,6 +71,7 @@ BSc Finance & Business (Oct 2019)
 - URL: https://wqu.org/
 
 <b>Minimodules</b>:
+
 1. Introduction to Git for Data Science
 - Completion: 100%
 - Retention: 50%
@@ -86,6 +90,7 @@ BSc Finance & Business (Oct 2019)
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In Progress</b>:
+
 1. WQU Machine Learning
 2. Accelerated Computer Science Program
 3. Flutter & Dart
@@ -93,6 +98,7 @@ BSc Finance & Business (Oct 2019)
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
+
 1. Udacity Artificial Intelligence for Trading
 - URL: https://www.udacity.com/course/ai-for-trading--nd880
 
@@ -110,6 +116,7 @@ BSc Finance & Business (Oct 2019)
 - URL: https://www.coursera.org/specializations/cloud-computing?
 
 <b>Degrees</b>:
+
 1. MSc Computer Science
 -	Modules:
 	- CS 421 Programming Languages and Compilers
