@@ -27,7 +27,6 @@ A consolidated account of my journey from monkey to quant.
 
 1. Udemy The Complete Investment Banking Course
 	- Completion: 55%
-	- Retention: 15%
 	- URL: https://www.udemy.com/course/the-complete-investment-banking-course-2016/
 	- Core Concepts:
 		- Capital Markets
@@ -41,7 +40,6 @@ A consolidated account of my journey from monkey to quant.
 
 2. Udacity Introduction to Programming
 	- Completion: 100%
-	- Retention: 10
 	- URL: https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
 	- Core Concepts:
 		- Intro to HTML
@@ -52,7 +50,6 @@ A consolidated account of my journey from monkey to quant.
 
 3. Udemy Python for Financial Analysis & Algorithmic Trading
 	- Completion: 100%
-	- Retention: 20%
 	- URL: https://www.udemy.com/course/python-for-finance-and-trading-algorithms/
 	- Core Concepts:
 		- Python Fundamentals
@@ -83,7 +80,6 @@ A consolidated account of my journey from monkey to quant.
 
 4. Udemy Beginning C++ Programming
 	- Completion: 60%
-	- Retention: 15%
 	- URL: https://www.udemy.com/course/beginning-c-plus-plus-programming/
 	- Core Concepts:
 		- Looping with while, do/while for, range-based for statements and recursion
@@ -105,7 +101,6 @@ A consolidated account of my journey from monkey to quant.
 
 5. Udemy Complete Python Bootcamp
 	- Completion: 100%
-	- Retention: 10%
 	- URL: https://www.udemy.com/course/complete-python-bootcamp/
 		- Command Line Basics
 		- Data Structures
@@ -126,7 +121,6 @@ A consolidated account of my journey from monkey to quant.
 
 6. DataCamp Data Scientist Track
 	- Completion: 65%
-	- Retention: 20%
 	- URL: https://www.datacamp.com/tracks/data-scientist-with-python?version=2
 	- Core Concepts:
 		- Introduction to Python
@@ -147,12 +141,10 @@ A consolidated account of my journey from monkey to quant.
 
 8. WallStreetPrep Financial Modelling
 	- Completion: 45%
-	- Retention: 20%
 	- URL: https://www.wallstreetprep.com/my-courses/
 
 9. Udemy HFT & Dark Pools
 	- Completion: 100%
-	- Retention: 15%
 	- URL: https://www.udemy.com/course/high-frequency-trading-dark-pools/
 	- Core Concepts:
 		- High Frequency Trading
@@ -161,7 +153,6 @@ A consolidated account of my journey from monkey to quant.
 
 10. WQU Introduction to Data Science
 	- Completion: 100%
-	- Retention: 40%
 	- URL: https://wqu.org/
 	- Cert: https://wqu.thedataincubator.com/certificate/5278978654863360
 	- Core Concepts:
@@ -178,12 +169,10 @@ A consolidated account of my journey from monkey to quant.
 
 1. Introduction to Git for Data Science
 	- Completion: 100%
-	- Retention: 50%
 	- URL: https://www.datacamp.com/courses/introduction-to-git-for-data-science
 
 2. CFA Level 1
 	- Completion: 100%
-	- Retention: 33%
 	- URL: https://www.cfainstitute.org/
 	- Core Concepts:
 		- Ethical and Professional Standards
@@ -199,7 +188,6 @@ A consolidated account of my journey from monkey to quant.
 
 3. Bloomberg Market Concepts
 	- Completion: 100%
-	- Retention: 20%
 	- URL: https://www.bloomberg.com/professional/product/bloomberg-market-concepts/
 	- Core Concepts:
 		- Economic Indicators
