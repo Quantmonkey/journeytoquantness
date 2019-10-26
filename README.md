@@ -1,5 +1,5 @@
 # journeytoquantness
-A consolidated account of my journey from monkey to quant.
+A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
 - Correct As Of 24 Oct 2019
 
@@ -195,7 +195,7 @@ A consolidated account of my journey from monkey to quant.
 		- Fixed Income
 		- Equities
 	
-<b>Books(Coming Soon)</b>:
+<b>Prominent Books(Coming Soon)</b>:
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -221,7 +221,19 @@ A consolidated account of my journey from monkey to quant.
 		- Ordered Data Structures
 		- Unordered Data Structures
 		
-3. Flutter & Dart
+3. Udemy Flutter & Dart
+	- URL: https://www.udemy.com/course/flutter-bootcamp-with-dart/
+	- Core Concepts:
+		- Fundamental Flutter concepts
+		- Fundamental Dart concepts
+		- Concepts of Object Oriented Programming
+		- Control Structures
+		- Data Structures
+		- Software Design
+		- Networking
+		- Data Storage
+		- Authentication
+		- State Management
 
 ------------------------------------------------------------------------------------------------------------------------
 
