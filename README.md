@@ -239,16 +239,19 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In the Pipeline</b>:
 
-1. Udacity Artificial Intelligence for Trading
-	- URL: https://www.udacity.com/course/ai-for-trading--nd880
+1. Udacity Introduction to Artificial Intelligence
+	- URL: https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 
 2. Udacity C++
 	- URL: https://www.udacity.com/course/c-plus-plus-nanodegree--nd213
 
-3. Udacity Data Structures & Algorithms
+3. Udacity Artificial Intelligence for Trading
+	- URL: https://www.udacity.com/course/ai-for-trading--nd880
+
+4. Udacity Data Structures & Algorithms
 	- URL: https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256
 
-4. Coursera University of Illinois Cloud Computing (As part of MSc CS)
+5. Coursera University of Illinois Cloud Computing (As part of MSc CS)
 	- URL: https://www.coursera.org/specializations/cloud-computing?
 	- Modules:
 		- Cloud Computing Concepts
