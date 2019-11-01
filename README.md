@@ -79,7 +79,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Futures Trading
 
 4. Udemy Beginning C++ Programming
-	- Completion: 60%
+	- Completion: 80%
 	- URL: https://www.udemy.com/course/beginning-c-plus-plus-programming/
 	- Core Concepts:
 		- Looping with while, do/while for, range-based for statements and recursion
@@ -234,6 +234,31 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Data Storage
 		- Authentication
 		- State Management
+		
+4. WQU Admission Test
+	- Mathematics
+		- Differential calculus
+		- Integral calculus
+		- Matrices and linear algebra
+		- Set theory
+		- Differential equations
+		- Complex numbers
+		- Sequences and series
+		- Logic and proofs
+		- Multivariate calculus
+		- Convergence of sequences and functions
+		- Partial differential equations
+
+	- Statistics
+		- Exploratory Data Analysis
+		- Elementary Probability
+		- Univariate random variables
+		- Bi-variate random variables
+		- Generating functions
+		- Statistical estimation theory
+		- Hypothesis Testing
+		- Confidence Intervals
+		- Linear Regression
 
 ------------------------------------------------------------------------------------------------------------------------
 
