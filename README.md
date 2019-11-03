@@ -237,19 +237,21 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		
 4. WQU Admission Test
 	- Mathematics
-		- Differential calculus
-		- Integral calculus
-		- Matrices and linear algebra
+		- [Differential calculus](https://tinyurl.com/omrmjhp)
+		- [Integral calculus](https://tinyurl.com/kgg89q3)
+		- [Matrices](https://tinyurl.com/y3jojzs6)
+		- [Linear Algebra](https://tinyurl.com/ct3meeh)
 		- Set theory
-		- Differential equations
-		- Complex numbers
-		- Sequences and series
+		- [Differential equations](https://tinyurl.com/mcyd2t5)
+		- [Complex numbers](https://tinyurl.com/y5bf5nsu)
+		- [Sequences](https://tinyurl.com/y646sv9y)
+		- [Series](https://tinyurl.com/y4y7hofh)
 		- Logic and proofs
-		- Multivariate calculus
-		- Convergence of sequences and functions
+		- [Multivariate calculus](https://tinyurl.com/qb6anly)
+		- [Convergence of sequences and functions](https://tinyurl.com/y59kqyw8)
 		- Partial differential equations
 
-	- Statistics
+	- [Statistics](https://www.khanacademy.org/math/ap-statistics)
 		- Exploratory Data Analysis
 		- Elementary Probability
 		- Univariate random variables
