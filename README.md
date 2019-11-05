@@ -235,7 +235,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Authentication
 		- State Management
 		
-4. WQU Admission Test
+4. WQU Admission Test [By 23 March 2020]
 	- Mathematics
 		- [Differential calculus](https://tinyurl.com/omrmjhp)
 		- [Integral calculus](https://tinyurl.com/kgg89q3)
@@ -262,6 +262,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Confidence Intervals
 		- Linear Regression
 
+5. Illinois Data Structures Proficiency Exam [By February 2020]
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
