@@ -25,9 +25,8 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>Courses</b>:
 
-1. Udemy The Complete Investment Banking Course
+1. [Udemy The Complete Investment Banking Course](https://www.udemy.com/course/the-complete-investment-banking-course-2016/)
 	- Completion: 55%
-	- URL: https://www.udemy.com/course/the-complete-investment-banking-course-2016/
 	- Core Concepts:
 		- Capital Markets
 		- Advisory Services
@@ -38,9 +37,9 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- DCF Valuation
 		- LBO Valuation
 
-2. Udacity Introduction to Programming
+2. [Udacity Introduction to Programming](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
 	- Completion: 100%
-	- URL: https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
+	- [Certification](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/055fc1ec-316e-4c6b-ab7c-38f42c3955e2.pdf) 
 	- Core Concepts:
 		- Intro to HTML
 		- Intro to CSS
@@ -48,9 +47,9 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Intro to JavaScript
 		- Introduction to Data Science
 
-3. Udemy Python for Financial Analysis & Algorithmic Trading
+3. [Udemy Python for Financial Analysis & Algorithmic Trading](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
 	- Completion: 100%
-	- URL: https://www.udemy.com/course/python-for-finance-and-trading-algorithms/
+	- [Certification](https://www.udemy.com/certificate/UC-8NRZZL19/)
 	- Core Concepts:
 		- Python Fundamentals
 		- NumPy for High Speed Numerical Processing
@@ -78,9 +77,9 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Algorithmic Trading with Quantopian
 		- Futures Trading
 
-4. Udemy Beginning C++ Programming
+4. [Udemy Beginning C++ Programming](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 	- Completion: 80%
-	- URL: https://www.udemy.com/course/beginning-c-plus-plus-programming/
+	- [Certification](https://www.udemy.com/certificate/UC-UW0KKBY9/)
 	- Core Concepts:
 		- Looping with while, do/while for, range-based for statements and recursion
 		- Performing calculations and displaying results
@@ -99,9 +98,9 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- An introduction to the C++ STL
 		- An introduction to Exception Handling
 
-5. Udemy Complete Python Bootcamp
+5. [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 	- Completion: 100%
-	- URL: https://www.udemy.com/course/complete-python-bootcamp/
+	- [Certification](https://www.udemy.com/certificate/UC-Q9L3EUB7/) 
 		- Command Line Basics
 		- Data Structures
 		- Data Types
@@ -119,9 +118,8 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Advanced Methods
 		- Unit Tests
 
-6. DataCamp Data Scientist Track
+6. [DataCamp Data Scientist Track](https://www.datacamp.com/tracks/data-scientist-with-python?version=2)
 	- Completion: 65%
-	- URL: https://www.datacamp.com/tracks/data-scientist-with-python?version=2
 	- Core Concepts:
 		- Introduction to Python
 		- Intermediate Python for Data Science
@@ -139,22 +137,19 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Deep Learning
 		- Network Analysis
 
-8. WallStreetPrep Financial Modelling
+8. [WallStreetPrep Financial Modelling](https://www.wallstreetprep.com/my-courses/)
 	- Completion: 45%
-	- URL: https://www.wallstreetprep.com/my-courses/
 
-9. Udemy HFT & Dark Pools
+9. [Udemy HFT & Dark Pools](https://www.udemy.com/course/high-frequency-trading-dark-pools/)
 	- Completion: 100%
-	- URL: https://www.udemy.com/course/high-frequency-trading-dark-pools/
 	- Core Concepts:
 		- High Frequency Trading
 		- Dark Pools
 		- Trading Strategies
 
-10. WQU Introduction to Data Science
+10. [WQU Introduction to Data Science](https://wqu.org/)
 	- Completion: 100%
-	- URL: https://wqu.org/
-	- Cert: https://wqu.thedataincubator.com/certificate/5278978654863360
+	- [Certification](https://wqu.thedataincubator.com/certificate/5278978654863360)
 	- Core Concepts:
 		- Program flow, data structures
 		- Data structures, algorithms, classes
@@ -167,28 +162,27 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>Minimodules</b>:
 
-1. Introduction to Git for Data Science
+1. [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 	- Completion: 100%
-	- URL: https://www.datacamp.com/courses/introduction-to-git-for-data-science
 
-2. CFA Level 1
+2. [CFA Level 1](https://www.cfainstitute.org/)
 	- Completion: 100%
-	- URL: https://www.cfainstitute.org/
+	- [Certification](https://basno.com/tvrodc8f)
 	- Core Concepts:
 		- Ethical and Professional Standards
-		- Corporate Finance	7
+		- Corporate Finance	
 		- Economics
 		- Financial Reporting and Analysis
 		- Quantitative Methods
-		- Alternative Investments	4
+		- Alternative Investments	
 		- Derivatives
 		- Equity Investments
 		- Fixed Income
 		- Portfolio Management and Wealth Planning
 
-3. Bloomberg Market Concepts
+3. [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/)
 	- Completion: 100%
-	- URL: https://www.bloomberg.com/professional/product/bloomberg-market-concepts/
+	- Cerification ID: 151521274648
 	- Core Concepts:
 		- Economic Indicators
 		- Currencies
@@ -201,8 +195,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:
 
-1. WQU Machine Learning
-	- URL: https://wqu.org/
+1. [WQU Machine Learning](https://wqu.org/)
 	- Core Concepts:
 		- Introduction to Machine Learning
 		- Regression and classification
@@ -214,15 +207,13 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Ensemble methods
 		- Support Vector Machine and Natural Language Processing
 
-2. Accelerated Computer Science Fundamentals
-	- URL: https://www.coursera.org/learn/cs-fundamentals
+2. [Accelerated Computer Science Fundamentals](https://www.coursera.org/learn/cs-fundamentals)
 	- Core Concepts:
 		- Object Oriented Data Structures
 		- Ordered Data Structures
 		- Unordered Data Structures
 		
-3. Udemy Flutter & Dart
-	- URL: https://www.udemy.com/course/flutter-bootcamp-with-dart/
+3. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 	- Core Concepts:
 		- Fundamental Flutter concepts
 		- Fundamental Dart concepts
@@ -267,20 +258,15 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In the Pipeline</b>:
 
-1. Udacity Introduction to Artificial Intelligence
-	- URL: https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
+1. [Udacity Introduction to Artificial Intelligence](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
-2. Udacity C++
-	- URL: https://www.udacity.com/course/c-plus-plus-nanodegree--nd213
+2. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
-3. Udacity Artificial Intelligence for Trading
-	- URL: https://www.udacity.com/course/ai-for-trading--nd880
+3. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
-4. Udacity Data Structures & Algorithms
-	- URL: https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256
+4. [Udacity Data Structures & Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
 
-5. Coursera University of Illinois Cloud Computing (As part of MSc CS)
-	- URL: https://www.coursera.org/specializations/cloud-computing?
+5. [Coursera University of Illinois Cloud Computing (As part of MSc CS)](https://www.coursera.org/specializations/cloud-computing?)
 	- Modules:
 		- Cloud Computing Concepts
 		- Cloud Computing Applications
@@ -288,8 +274,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>Degrees</b>:
 
-1. MSc Computer Science
-	- URL: https://www.coursera.org/degrees/master-of-computer-science-illinois
+1. [MSc Computer Science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
 	- Modules:
 		- CS 421 Programming Languages and Compilers
 		- CS 427 Software Engineering I
@@ -299,8 +284,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- CS 598 / STAT 578 Advanced Bayesian Modeling
 		- CS 598 Cloud Computing Capstone OR Data Mining Capstone
 
-2. MSc Financial Engineering
-	- URL: https://wqu.org/
+2. [MSc Financial Engineering](https://wqu.org/)
 	- Modules:
 		- MScFE 560: Financial Markets
 		- MScFE 610: Econometrics
@@ -313,4 +297,4 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- MScFE 670: Data Feeds and Technology
 		- MScFE 690: Capstone Course
 
-3. MSc/PhD in Mathematics OR Physics [Non-Online, NUS or MIT or An Actual Non-Clown University]
+3. MSc/PhD in Mathematics OR Physics
