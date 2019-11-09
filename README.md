@@ -276,13 +276,20 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 1. [MSc Computer Science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
 	- Modules:
-		- CS 421 Programming Languages and Compilers
+	Breadth
+		Programming Languages & Software Engineering
 		- CS 427 Software Engineering I
+		Scientific Computing
 		- CS 450 Numerical Analysis
+		Parallel Computing
 		- CS 484 Parallel Computing
+		Artificial Intelligence: 
+		- CS 498 Applied Machine Learning
+		
+	Advanced
 		- CS 598 / STAT 542 Practical Statistical Learning
 		- CS 598 / STAT 578 Advanced Bayesian Modeling
-		- CS 598 Cloud Computing Capstone OR Data Mining Capstone
+		- CS 598 Cloud Computing Capstone OR STAT 420: Statistical Modeling in R Syllabus
 
 2. [MSc Financial Engineering](https://wqu.org/)
 	- Modules:
