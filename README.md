@@ -159,6 +159,13 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Data aggregation in pandas
 		- SQL and Object-Relational Mapping
 		- Data munging
+		
+11. [Accelerated Computer Science Fundamentals](https://www.coursera.org/learn/cs-fundamentals)
+	- [Certification](https://www.coursera.org/account/accomplishments/specialization/F59EWJL5XAP2) 
+	- Core Concepts:
+		- Object Oriented Data Structures
+		- Ordered Data Structures
+		- Unordered Data Structures
 
 <b>Minimodules</b>:
 
@@ -207,13 +214,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Ensemble methods
 		- Support Vector Machine and Natural Language Processing
 
-2. [Accelerated Computer Science Fundamentals](https://www.coursera.org/learn/cs-fundamentals)
-	- Core Concepts:
-		- Object Oriented Data Structures
-		- Ordered Data Structures
-		- Unordered Data Structures
-		
-3. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+2. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 	- Core Concepts:
 		- Fundamental Flutter concepts
 		- Fundamental Dart concepts
@@ -253,7 +254,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Confidence Intervals
 		- Linear Regression
 
-5. Illinois Data Structures Proficiency Exam [By February 2020]
+4. Illinois Data Structures Proficiency Exam [By February 2020]
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
