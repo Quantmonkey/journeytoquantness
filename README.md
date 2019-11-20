@@ -26,7 +26,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 <b>Courses</b>:
 
 1. [Udemy The Complete Investment Banking Course](https://www.udemy.com/course/the-complete-investment-banking-course-2016/)
-	- Completion: 55%
 	- Core Concepts:
 		- Capital Markets
 		- Advisory Services
@@ -38,7 +37,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- LBO Valuation
 
 2. [Udacity Introduction to Programming](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
-	- Completion: 100%
 	- [Certification](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/055fc1ec-316e-4c6b-ab7c-38f42c3955e2.pdf) 
 	- Core Concepts:
 		- Intro to HTML
@@ -48,7 +46,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Introduction to Data Science
 
 3. [Udemy Python for Financial Analysis & Algorithmic Trading](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
-	- Completion: 100%
 	- [Certification](https://www.udemy.com/certificate/UC-8NRZZL19/)
 	- Core Concepts:
 		- Python Fundamentals
@@ -78,7 +75,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Futures Trading
 
 4. [Udemy Beginning C++ Programming](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
-	- Completion: 80%
 	- [Certification](https://www.udemy.com/certificate/UC-UW0KKBY9/)
 	- Core Concepts:
 		- Looping with while, do/while for, range-based for statements and recursion
@@ -99,7 +95,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- An introduction to Exception Handling
 
 5. [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
-	- Completion: 100%
 	- [Certification](https://www.udemy.com/certificate/UC-Q9L3EUB7/) 
 		- Command Line Basics
 		- Data Structures
@@ -119,7 +114,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Unit Tests
 
 6. [DataCamp Data Scientist Track](https://www.datacamp.com/tracks/data-scientist-with-python?version=2)
-	- Completion: 65%
 	- Core Concepts:
 		- Introduction to Python
 		- Intermediate Python for Data Science
@@ -138,17 +132,14 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Network Analysis
 
 8. [WallStreetPrep Financial Modelling](https://www.wallstreetprep.com/my-courses/)
-	- Completion: 45%
 
 9. [Udemy HFT & Dark Pools](https://www.udemy.com/course/high-frequency-trading-dark-pools/)
-	- Completion: 100%
 	- Core Concepts:
 		- High Frequency Trading
 		- Dark Pools
 		- Trading Strategies
 
 10. [WQU Introduction to Data Science](https://wqu.org/)
-	- Completion: 100%
 	- [Certification](https://wqu.thedataincubator.com/certificate/5278978654863360)
 	- Core Concepts:
 		- Program flow, data structures
