@@ -158,12 +158,10 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Ordered Data Structures
 		- Unordered Data Structures
 
-<b>Minimodules</b>:
-
-1. [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+12. [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 	- Completion: 100%
 
-2. [CFA Level 1](https://www.cfainstitute.org/)
+13. [CFA Level 1](https://www.cfainstitute.org/)
 	- Completion: 100%
 	- [Certification](https://basno.com/tvrodc8f)
 	- Core Concepts:
@@ -178,7 +176,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Fixed Income
 		- Portfolio Management and Wealth Planning
 
-3. [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/)
+14. [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/)
 	- Completion: 100%
 	- Cerification ID: 151521274648
 	- Core Concepts:
@@ -186,14 +184,8 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Currencies
 		- Fixed Income
 		- Equities
-	
-<b>Prominent Books(Coming Soon)</b>:
-
-------------------------------------------------------------------------------------------------------------------------
-
-<b>In Progress</b>:
-
-1. [WQU Machine Learning](https://wqu.org/)
+		
+15. [WQU Machine Learning](https://wqu.org/)
 	- Core Concepts:
 		- Introduction to Machine Learning
 		- Regression and classification
@@ -204,8 +196,15 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Statistical methods and nonparametric analysis, probability distributions
 		- Ensemble methods
 		- Support Vector Machine and Natural Language Processing
+	
+<b>Prominent Books(Coming Soon)</b>:
 
-2. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+------------------------------------------------------------------------------------------------------------------------
+
+<b>In Progress</b>:
+
+
+1. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 	- Core Concepts:
 		- Fundamental Flutter concepts
 		- Fundamental Dart concepts
@@ -218,7 +217,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Authentication
 		- State Management
 		
-4. WQU Admission Test [By 23 March 2020]
+2. WQU Admission Test [By 23 March 2020]
 	- Mathematics
 		- [Differential calculus](https://tinyurl.com/omrmjhp)
 		- [Integral calculus](https://tinyurl.com/kgg89q3)
@@ -245,7 +244,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Confidence Intervals
 		- Linear Regression
 
-4. Illinois Data Structures Proficiency Exam [By February 2020]
+3. Illinois Data Structures Proficiency Exam [By February 2020]
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
