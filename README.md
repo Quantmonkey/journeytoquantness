@@ -162,7 +162,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Completion: 100%
 
 13. [CFA Level 1](https://www.cfainstitute.org/)
-	- Completion: 100%
 	- [Certification](https://basno.com/tvrodc8f)
 	- Core Concepts:
 		- Ethical and Professional Standards
@@ -177,7 +176,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Portfolio Management and Wealth Planning
 
 14. [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/)
-	- Completion: 100%
 	- Cerification ID: 151521274648
 	- Core Concepts:
 		- Economic Indicators
@@ -186,6 +184,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Equities
 		
 15. [WQU Machine Learning](https://wqu.org/)
+	- [Certification](https://wqu.thedataincubator.com/certificate/6754527801769984)
 	- Core Concepts:
 		- Introduction to Machine Learning
 		- Regression and classification
