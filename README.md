@@ -96,6 +96,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 5. [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 	- [Certification](https://www.udemy.com/certificate/UC-Q9L3EUB7/) 
+	- Core Concepts:
 		- Command Line Basics
 		- Data Structures
 		- Data Types
