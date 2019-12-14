@@ -245,6 +245,8 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Linear Regression
 
 3. Illinois Data Structures Proficiency Exam [By February 2020]
+
+4. Quantstart API
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
