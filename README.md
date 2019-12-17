@@ -221,11 +221,11 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Mathematics
 		- [Differential calculus](https://tinyurl.com/omrmjhp)
 		- [Integral calculus](https://tinyurl.com/kgg89q3)
-		- [Matrices](https://tinyurl.com/y3jojzs6)
+		- [Matrices](https://tinyurl.com/y3jojzs6) (Completed)
 		- [Linear Algebra](https://tinyurl.com/ct3meeh)
 		- Set theory
 		- [Differential equations](https://tinyurl.com/mcyd2t5)
-		- [Complex numbers](https://tinyurl.com/y5bf5nsu)
+		- [Complex numbers](https://tinyurl.com/y5bf5nsu)(Completed)
 		- [Sequences](https://tinyurl.com/y646sv9y)
 		- [Series](https://tinyurl.com/y4y7hofh)
 		- Logic and proofs
