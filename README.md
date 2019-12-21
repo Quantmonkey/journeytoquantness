@@ -247,6 +247,10 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 3. Illinois Data Structures Proficiency Exam [By February 2020]
 
 4. QuantConnect API
+
+5. Mathematics for Machine Learning by Imperial College London
+
+6. Machine Learning for Trading by Google Cloud
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
