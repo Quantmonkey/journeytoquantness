@@ -260,7 +260,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
-1. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
+1. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses) ||
    [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
 
 2. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
