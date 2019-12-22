@@ -248,26 +248,24 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 4. QuantConnect API
 
-5. Mathematics for Machine Learning by Imperial College London
+5. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
+	- Linear Algebra
+	- Multivariate Calculus
+	- PCA
 
-6. Machine Learning for Trading by Google Cloud
+6. [Coursera University of Illinois Cloud Computing](https://www.coursera.org/specializations/cloud-computing?)
+	- Cloud Computing Concepts
+	- Cloud Computing Applications
+	- Cloud Networking
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
-
-1. [Udacity Introduction to Artificial Intelligence](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
+1. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
+   [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
 
 2. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
 3. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
-
-4. [Udacity Data Structures & Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
-
-5. [Coursera University of Illinois Cloud Computing (As part of MSc CS)](https://www.coursera.org/specializations/cloud-computing?)
-	- Modules:
-		- Cloud Computing Concepts
-		- Cloud Computing Applications
-		- Cloud Networking
 
 <b>Degrees</b>:
 
