@@ -272,7 +272,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 1. [MSc Computer Science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
 	- Modules:
 		- Programming Languages & Software Engineering
-			- CS 427 Software Engineering I
+			- CS 421 Programming Languages and Compilers
 		- Scientific Computing
 			- CS 450 Numerical Analysis
 		- Parallel Computing
