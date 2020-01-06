@@ -251,11 +251,12 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 5. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
 	- Linear Algebra
 	- Multivariate Calculus
-	- PCA
+	- Principal Component Analysis
 
 6. [Coursera University of Illinois Cloud Computing](https://www.coursera.org/specializations/cloud-computing?)
 	- Cloud Computing Concepts
-	- Cloud Computing Applications
+	- Cloud Computing Applications: Systems and Infrastructure
+	- Cloud Computing Applications: Big Data Applications
 	- Cloud Networking
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -263,7 +264,15 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 1. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses) ||
    [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
 
-2. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
+2. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
+	- Algorithmic Toolbox
+	- Data Structures
+	- Graph Algorithms
+	- String Algorithms
+	- Advanced Algorithms
+	- Genome Assembly
+
+3. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
 3. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
