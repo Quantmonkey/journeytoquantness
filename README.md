@@ -1,7 +1,7 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of 06 Jan 2019
+- Correct As Of 06 Jan 2020
 
 <b>Degrees</b>:
 
@@ -258,23 +258,25 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Cloud Computing Applications: Systems and Infrastructure
 	- Cloud Computing Applications: Big Data Applications
 	- Cloud Networking
-------------------------------------------------------------------------------------------------------------------------
-
-<b>In the Pipeline</b>:
-1. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses) ||
-   [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
-
-2. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
+	
+7. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
 	- Algorithmic Toolbox
 	- Data Structures
 	- Graph Algorithms
 	- String Algorithms
 	- Advanced Algorithms
 	- Genome Assembly
+------------------------------------------------------------------------------------------------------------------------
+
+<b>In the Pipeline</b>:
+1. [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning#syllabus)
+
+2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses) ||
+   [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
 
 3. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
-3. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
+4. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
 <b>Degrees</b>:
 
