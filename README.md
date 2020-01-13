@@ -296,7 +296,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 <b>In the Pipeline</b>:
 1. [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning#syllabus)
 
-2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses) ||
+2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
    
 3. [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
 
