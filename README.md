@@ -1,7 +1,7 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of 06 Jan 2020
+- Correct As Of 13 Jan 2020
 
 <b>Degrees</b>:
 
@@ -197,7 +197,12 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Ensemble methods
 		- Support Vector Machine and Natural Language Processing
 	
-<b>Prominent Books(Coming Soon)</b>:
+<b>Prominent Technical Books</b>:
+1. Grokking Algorithms - Bhargava
+2. Quantitative Trading - Ernest Chan 
+3. Inside the Black Box - Rishi K Narang
+4. Computer Science Distilled - Wladston
+5. Misbehavior of Markets - Mandelbrot
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -219,13 +224,13 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		
 2. WQU Admission Test [By 23 March 2020]
 	- Mathematics
-		- [Differential calculus](Completed)
+		- Differential calculus ✔️
 		- [Integral calculus](https://tinyurl.com/kgg89q3)
-		- [Matrices](Completed)
+		- Matrices ✔️
 		- [Linear Algebra](https://tinyurl.com/ct3meeh)
 		- Set theory
 		- [Differential equations](https://tinyurl.com/mcyd2t5)
-		- [Complex numbers](Completed)
+		- Complex numbers ✔️
 		- [Sequences](https://tinyurl.com/y646sv9y)
 		- [Series](https://tinyurl.com/y4y7hofh)
 		- Logic and proofs
@@ -266,17 +271,42 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- String Algorithms
 	- Advanced Algorithms
 	- Genome Assembly
+	
+8. Books Stack (Repeat means rereading):
+	- Clean Code
+	- Computer Science Distilled
+	- Code
+	- Elements of Computing Systems
+	- Scrum
+	- Finding Alphas
+	- Dark Pools and HFT for Dummies
+	- Trading & Exchanges
+	- Algorithmic Trading
+	- Algorithmic Trading & DMA
+	- Algorithmic and HFT Trading
+	- Advances in Financial Machine Learning
+	- Misbehavior of Markets
+	- Fluent Python
+	- Python for Data Analysis
+	- Python Data Science from Scratch
+	- Python Data Science Handbook
+	- Python Cookbook
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
 1. [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning#syllabus)
 
 2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses) ||
-   [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
+   
+3. [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
 
-3. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
+4. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
-4. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
+5. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
+
+6. Google GCP Courses
+
+7. Git & Linux
 
 <b>Degrees</b>:
 
