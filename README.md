@@ -196,20 +196,9 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Statistical methods and nonparametric analysis, probability distributions
 		- Ensemble methods
 		- Support Vector Machine and Natural Language Processing
-	
-<b>Prominent Technical Books</b>:
-1. Grokking Algorithms - Bhargava
-2. Quantitative Trading - Ernest Chan 
-3. Inside the Black Box - Rishi K Narang
-4. Computer Science Distilled - Wladston
-5. Misbehavior of Markets - Mandelbrot
-
-------------------------------------------------------------------------------------------------------------------------
-
-<b>In Progress</b>:
-
-
-1. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+		
+16. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+	- [Certification](https://www.udemy.com/certificate/UC-UDNP133I/)
 	- Core Concepts:
 		- Fundamental Flutter concepts
 		- Fundamental Dart concepts
@@ -221,24 +210,35 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Data Storage
 		- Authentication
 		- State Management
+	
+<b>Prominent Technical Books</b>:
+1. Grokking Algorithms - Bhargava
+2. Quantitative Trading - Ernest Chan 
+3. Inside the Black Box - Rishi K Narang
+4. Computer Science Distilled - Wladston
+5. Misbehavior of Markets - Mandelbrot
+
+------------------------------------------------------------------------------------------------------------------------
+
+<b>In Progress</b>:
 		
-2. WQU Admission Test [By 23 March 2020]
+1. WQU Admission Test [By 23 March 2020]
 	- Mathematics
 		- Differential calculus ✔️
-		- [Integral calculus](https://tinyurl.com/kgg89q3)
+		- Integral calculus ✔️
 		- Matrices ✔️
-		- [Linear Algebra](https://tinyurl.com/ct3meeh)
+		- Linear Algebra ✔️
 		- Set theory
-		- [Differential equations](https://tinyurl.com/mcyd2t5)
+		- Differential equations
 		- Complex numbers ✔️
-		- [Sequences](https://tinyurl.com/y646sv9y)
-		- [Series](https://tinyurl.com/y4y7hofh)
+		- Sequences
+		- Series
 		- Logic and proofs
-		- [Multivariate calculus](https://tinyurl.com/qb6anly)
-		- [Convergence of sequences and functions](https://tinyurl.com/y59kqyw8)
+		- Multivariate calculus
+		- Convergence of sequences and functions
 		- Partial differential equations
 
-	- [Statistics](https://www.khanacademy.org/math/ap-statistics)
+	- [Statistics]
 		- Exploratory Data Analysis
 		- Elementary Probability
 		- Univariate random variables
@@ -249,22 +249,18 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Confidence Intervals
 		- Linear Regression
 
-3. Illinois Data Structures Proficiency Exam [By February 2020]
-
-4. QuantConnect API
-
-5. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
+2. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
 	- Linear Algebra
 	- Multivariate Calculus
 	- Principal Component Analysis
 
-6. [Coursera University of Illinois Cloud Computing](https://www.coursera.org/specializations/cloud-computing?)
+3. [Coursera University of Illinois Cloud Computing](https://www.coursera.org/specializations/cloud-computing?)
 	- Cloud Computing Concepts
 	- Cloud Computing Applications: Systems and Infrastructure
 	- Cloud Computing Applications: Big Data Applications
 	- Cloud Networking
 	
-7. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
+4. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
 	- Algorithmic Toolbox
 	- Data Structures
 	- Graph Algorithms
@@ -272,7 +268,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Advanced Algorithms
 	- Genome Assembly
 	
-8. Books Stack (Repeat means rereading):
+Books Stack (Repeat means rereading):
 	- Clean Code
 	- Computer Science Distilled
 	- Code
