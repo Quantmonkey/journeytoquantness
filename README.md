@@ -1,7 +1,7 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of 13 Jan 2020
+- Correct As Of 17 Jan 2020
 
 <b>Degrees</b>:
 
