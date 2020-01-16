@@ -268,7 +268,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Advanced Algorithms
 	- Genome Assembly
 	
-Books Stack (Repeat means rereading):
+5. Books Stack (Repeat means rereading):
 	- Clean Code
 	- Computer Science Distilled
 	- Code
