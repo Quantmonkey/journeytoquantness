@@ -250,7 +250,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Linear Regression
 
 2. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
-	- Linear Algebra
+	- Linear Algebra ✔️
 	- Multivariate Calculus
 	- Principal Component Analysis
 
