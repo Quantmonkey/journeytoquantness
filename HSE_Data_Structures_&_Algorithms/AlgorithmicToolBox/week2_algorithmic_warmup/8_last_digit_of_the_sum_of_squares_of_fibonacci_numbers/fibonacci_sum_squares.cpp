@@ -34,7 +34,7 @@ long long fibonacciSum(long long n) {
     return answer;
 }
 
-// F(n+2) % 10 - 1
+// I refactored F(n+2) % 10 - 1 => F(n)
 long long fibonacciFast(long long n) {
     long long pisanoPeriod = 60;
     long long previous = 0;
