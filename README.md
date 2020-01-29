@@ -223,23 +223,22 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:
 		
-1. WQU Admission Test [By 23 March 2020]
-	- Mathematics
-		- Differential calculus ✔️
-		- Integral calculus ✔️
-		- Matrices ✔️
-		- Linear Algebra ✔️
-		- Set theory
-		- Differential equations
-		- Complex numbers ✔️
-		- Sequences
-		- Series
-		- Logic and proofs
-		- Multivariate calculus
-		- Convergence of sequences and functions
-		- Partial differential equations
+1. Mathematics
+	- Differential calculus ✔️
+	- Integral calculus ✔️
+	- Matrices ✔️
+	- Linear Algebra ✔️
+	- Set theory
+	- Differential equations
+	- Complex numbers ✔️
+	- Sequences
+	- Series
+	- Logic and proofs
+	- Multivariate calculus
+	- Convergence of sequences and functions
+	- Partial differential equations
 
-	- [Statistics]
+	[Statistics]
 		- Exploratory Data Analysis
 		- Elementary Probability
 		- Univariate random variables
