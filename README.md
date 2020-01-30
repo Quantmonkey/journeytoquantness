@@ -186,6 +186,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		
 15. [WQU Machine Learning](https://wqu.org/)
 	- [Certification](https://wqu.thedataincubator.com/certificate/6754527801769984)
+	- [Certification] (https://wqu.thedataincubator.com/certificate/6754527801769984_full)
 	- Core Concepts:
 		- Introduction to Machine Learning
 		- Regression and classification
@@ -222,23 +223,22 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:
 		
-1. WQU Admission Test [By 23 March 2020]
-	- Mathematics
-		- Differential calculus ✔️
-		- Integral calculus ✔️
-		- Matrices ✔️
-		- Linear Algebra ✔️
-		- Set theory
-		- Differential equations
-		- Complex numbers ✔️
-		- Sequences
-		- Series
-		- Logic and proofs
-		- Multivariate calculus
-		- Convergence of sequences and functions
-		- Partial differential equations
+1. Mathematics
+	- Differential calculus ✔️
+	- Integral calculus ✔️
+	- Matrices ✔️
+	- Linear Algebra ✔️
+	- Set theory
+	- Differential equations
+	- Complex numbers ✔️
+	- Sequences
+	- Series
+	- Logic and proofs
+	- Multivariate calculus
+	- Convergence of sequences and functions
+	- Partial differential equations
 
-	- [Statistics]
+	[Statistics]
 		- Exploratory Data Analysis
 		- Elementary Probability
 		- Univariate random variables
@@ -253,14 +253,8 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Linear Algebra ✔️
 	- Multivariate Calculus
 	- Principal Component Analysis
-
-3. [Coursera University of Illinois Cloud Computing](https://www.coursera.org/specializations/cloud-computing?)
-	- Cloud Computing Concepts
-	- Cloud Computing Applications: Systems and Infrastructure
-	- Cloud Computing Applications: Big Data Applications
-	- Cloud Networking
 	
-4. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
+3. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
 	- Algorithmic Toolbox
 	- Data Structures
 	- Graph Algorithms
@@ -268,7 +262,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Advanced Algorithms
 	- Genome Assembly
 	
-5. Books Stack (Repeat means rereading):
+4. Books Stack (Repeat means rereading):
 	- Clean Code
 	- Computer Science Distilled
 	- Code
@@ -300,9 +294,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 5. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
-6. Google GCP Courses
-
-7. Git & Linux
+6. Git & Linux
 
 <b>Degrees</b>:
 
