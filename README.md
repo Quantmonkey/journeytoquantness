@@ -237,7 +237,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Multivariate calculus
 	- Convergence of sequences and functions
 	- Partial differential equations
-
+	
 Statistics
 	- Exploratory Data Analysis
 	- Elementary Probability
