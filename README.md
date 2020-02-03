@@ -1,7 +1,7 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 17 Jan 2020
+- Correct As Of: 03 Feb 2020
 
 <b>Degrees</b>:
 
@@ -223,7 +223,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:
 		
-1. Mathematics
+1. Mathematics: By March
 	- Differential calculus ✔️
 	- Integral calculus ✔️
 	- Matrices ✔️
@@ -238,7 +238,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Convergence of sequences and functions
 	- Partial differential equations
 	
-2. Statistics
+2. Statistics: By April
 	- Exploratory Data Analysis
 	- Elementary Probability
 	- Univariate random variables
