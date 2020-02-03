@@ -238,16 +238,16 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Convergence of sequences and functions
 	- Partial differential equations
 
-	[Statistics]
-		- Exploratory Data Analysis
-		- Elementary Probability
-		- Univariate random variables
-		- Bi-variate random variables
-		- Generating functions
-		- Statistical estimation theory
-		- Hypothesis Testing
-		- Confidence Intervals
-		- Linear Regression
+Statistics
+	- Exploratory Data Analysis
+	- Elementary Probability
+	- Univariate random variables
+	- Bi-variate random variables
+	- Generating functions
+	- Statistical estimation theory
+	- Hypothesis Testing
+	- Confidence Intervals
+	- Linear Regression
 
 2. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
 	- Linear Algebra ✔️
