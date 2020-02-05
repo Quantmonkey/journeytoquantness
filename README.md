@@ -229,14 +229,14 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Matrices ✔️
 	- Linear Algebra ✔️
 	- Set theory
-	- Differential equations
+	- Differential equations ✔️
 	- Complex numbers ✔️
 	- Sequences
 	- Series
 	- Logic and proofs
 	- Multivariate calculus
 	- Convergence of sequences and functions
-	- Partial differential equations
+	- Partial differential equations ✔️
 	
 2. Statistics: By April
 	- Exploratory Data Analysis
