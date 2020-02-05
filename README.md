@@ -294,7 +294,9 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 5. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
-6. Git & Linux
+6. [Mathematics for Data Science](https://www.coursera.org/specializations/mathematics-for-data-science#courses)
+
+7. [Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics?)
 
 <b>Degrees</b>:
 
