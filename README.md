@@ -1,7 +1,7 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 17 Jan 2020
+- Correct As Of: 03 Feb 2020
 
 <b>Degrees</b>:
 
@@ -223,31 +223,31 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:
 		
-1. Mathematics
+1. Mathematics: By March
 	- Differential calculus ✔️
 	- Integral calculus ✔️
 	- Matrices ✔️
 	- Linear Algebra ✔️
 	- Set theory
-	- Differential equations
+	- Differential equations ✔️
 	- Complex numbers ✔️
 	- Sequences
 	- Series
 	- Logic and proofs
 	- Multivariate calculus
 	- Convergence of sequences and functions
-	- Partial differential equations
-
-	[Statistics]
-		- Exploratory Data Analysis
-		- Elementary Probability
-		- Univariate random variables
-		- Bi-variate random variables
-		- Generating functions
-		- Statistical estimation theory
-		- Hypothesis Testing
-		- Confidence Intervals
-		- Linear Regression
+	- Partial differential equations ✔️
+	
+2. Statistics: By April
+	- Exploratory Data Analysis
+	- Elementary Probability
+	- Univariate random variables
+	- Bi-variate random variables
+	- Generating functions
+	- Statistical estimation theory
+	- Hypothesis Testing
+	- Confidence Intervals
+	- Linear Regression
 
 2. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
 	- Linear Algebra ✔️
@@ -294,7 +294,9 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 5. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
-6. Git & Linux
+6. [Mathematics for Data Science](https://www.coursera.org/specializations/mathematics-for-data-science#courses)
+
+7. [Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics?)
 
 <b>Degrees</b>:
 
