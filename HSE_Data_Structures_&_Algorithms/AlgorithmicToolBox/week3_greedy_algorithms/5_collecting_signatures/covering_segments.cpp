@@ -9,13 +9,30 @@ struct Segment {
   int start, end;
 };
 
+bool compareInterval(Segment i1, Segment i2) 
+{ 
+    return (i1.end < i2.end); 
+} 
+
 vector<int> optimal_points(vector<Segment> &segments) {
   vector<int> points;
-  //write your code here
+  sort(segments.begin(), segments.end(), compareInterval);
+  int furthest_mark = -1;
+
   for (size_t i = 0; i < segments.size(); ++i) {
-    points.push_back(segments[i].start);
-    points.push_back(segments[i].end);
+    if (segments[i].start > furthest_mark) {
+      
+      points.push_back(segments[i].end);
+      furthest_mark = segments[i].end;
+      for (size_t innerIndex = 0; innerIndex < segments.size(); ++innerIndex) {
+        if (segments[innerIndex].start <= segments[i].end) {
+          segments[innerIndex].start = -1;
+          segments[innerIndex].end = -1;
+        }
+      }
+    }
   }
+
   return points;
 }
 
