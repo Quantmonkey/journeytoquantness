@@ -223,31 +223,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:
 		
-1. Mathematics: By March
-	- Differential calculus ✔️
-	- Integral calculus ✔️
-	- Matrices ✔️
-	- Linear Algebra ✔️
-	- Set theory
-	- Differential equations ✔️
-	- Complex numbers ✔️
-	- Sequences
-	- Series
-	- Logic and proofs
-	- Multivariate calculus
-	- Convergence of sequences and functions
-	- Partial differential equations ✔️
-	
-2. Statistics: By April
-	- Exploratory Data Analysis
-	- Elementary Probability
-	- Univariate random variables
-	- Bi-variate random variables
-	- Generating functions
-	- Statistical estimation theory
-	- Hypothesis Testing
-	- Confidence Intervals
-	- Linear Regression
+1. Introduction to Discrete Mathematics For Computer Science
 
 2. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
 	- Linear Algebra ✔️
