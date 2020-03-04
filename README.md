@@ -225,12 +225,14 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		
 1. Introduction to Discrete Mathematics For Computer Science
 
-2. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
+2. Master Discrete Mathematics
+
+3. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
 	- Linear Algebra ✔️
 	- Multivariate Calculus
 	- Principal Component Analysis
 	
-3. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
+4. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
 	- Algorithmic Toolbox
 	- Data Structures
 	- Graph Algorithms
@@ -238,7 +240,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Advanced Algorithms
 	- Genome Assembly
 	
-4. Books Stack (Repeat means rereading):
+5. Books Stack (Repeat means rereading):
 	- Clean Code
 	- Computer Science Distilled
 	- Code
