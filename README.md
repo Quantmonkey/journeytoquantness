@@ -40,6 +40,8 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 4. [Advanced Data Science With IBM](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
 
+5. [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/) 
+
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>Completed</b>:
@@ -264,16 +266,31 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Specialized Models: Time Series and Survival Analysis
 
 <b>Prominent Technical Books</b>:
+
 1. Grokking Algorithms - Bhargava
+
 2. Quantitative Trading - Ernest Chan
+
 3. Inside the Black Box - Rishi K Narang
+
 4. Computer Science Distilled - Wladston
+
 5. Misbehavior of Markets - Mandelbrot
+
 6. Trading & Exchanges - Larry Harris
+
 7. Finding Alphas - Igor Tulchinsky
+
 8. Clean Code - Robert Martin
+
 9. Algorithmic Trading - Ernest Chan
+
 10. Fortune's Formula - William Poundstone
+
 11. Safe Haven - Mark Spitznagel
+
 12. Building Winning Algorithmic Trading Systems - Kevin J Davey
+
 13. Machine Trading - Ernest P Chan
+
+14. Cython - Kurt Smith 
