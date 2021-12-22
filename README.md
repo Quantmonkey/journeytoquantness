@@ -1,7 +1,48 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 03 Feb 2020
+- Correct As Of: 22 Dec 2021
+
+<b>In Progress</b>:	
+
+1. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
+	- Core Concepts:
+		- Blockchain Basics
+		- Smart Contracts
+		- Decentralized Applications
+		- Blockchain Platforms
+
+2. Books Stack:
+	-  Advances In Financial Machine Learning - Marco De Lopez
+	-  Big Data and Machine Learning in Quantitative Investment - Tony Guida
+
+3. MSc Financial Engineering (Ongoing)
+	- Modules:
+		- Stochastic Calculus and Quantitative Methods ✔️
+		-  Financial Econometrics ✔️
+		-  Programming and Advanced Numerical Methods (Ongoing)
+		-  Risk Analyses and Management (Ongoing)
+		-  Derivatives and Fixed Income
+		-  Research Methods in Finance
+		-  Machine Learning and FinTech
+		-  C++ in Financial Engineering
+		-  _Undecided Elective_
+		-  Financial Engineering Project
+
+------------------------------------------------------------------------------------------------------------------------
+
+<b>In the Pipeline</b>:
+1. [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
+
+2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
+
+3. [IBM Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+
+4. [Advanced Data Science With IBM](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
+
+------------------------------------------------------------------------------------------------------------------------
+
+<b>Completed</b>:
 
 <b>Degrees</b>:
 
@@ -211,99 +252,28 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Data Storage
 		- Authentication
 		- State Management
-	
+
+17. [IBM Machine Learning](https://www.coursera.org/professional-certificates/ibm-machine-learning)
+	- [Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T7GEJ4RASRPB)
+	- Core Concepts:
+		- Exploratory Data Analysis for Machine Learning
+		- Supervised Machine Learning: Regression
+		- Supervised Machine Learning: Classification
+		- Unsupervised Machine Learning
+		- Deep Learning and Reinforcement Learning
+		- Specialized Models: Time Series and Survival Analysis
+
 <b>Prominent Technical Books</b>:
 1. Grokking Algorithms - Bhargava
-2. Quantitative Trading - Ernest Chan 
+2. Quantitative Trading - Ernest Chan
 3. Inside the Black Box - Rishi K Narang
 4. Computer Science Distilled - Wladston
 5. Misbehavior of Markets - Mandelbrot
-
-------------------------------------------------------------------------------------------------------------------------
-
-<b>In Progress</b>:
-		
-1. Introduction to Discrete Mathematics For Computer Science
-
-2. Master Discrete Mathematics
-
-3. [Mathematics for Machine Learning by Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning)
-	- Linear Algebra ✔️
-	- Multivariate Calculus
-	- Principal Component Analysis
-	
-4. [UCSanDiego Data Structures & Algorithms](https://www.coursera.org/specializations/data-structures-algorithms#courses)
-	- Algorithmic Toolbox
-	- Data Structures
-	- Graph Algorithms
-	- String Algorithms
-	- Advanced Algorithms
-	- Genome Assembly
-	
-5. Books Stack (Repeat means rereading):
-	- Clean Code
-	- Computer Science Distilled
-	- Code
-	- Elements of Computing Systems
-	- Scrum
-	- Finding Alphas
-	- Dark Pools and HFT for Dummies
-	- Trading & Exchanges
-	- Algorithmic Trading
-	- Algorithmic Trading & DMA
-	- Algorithmic and HFT Trading
-	- Advances in Financial Machine Learning
-	- Misbehavior of Markets
-	- Fluent Python
-	- Python for Data Analysis
-	- Python Data Science from Scratch
-	- Python Data Science Handbook
-	- Python Cookbook
-------------------------------------------------------------------------------------------------------------------------
-
-<b>In the Pipeline</b>:
-1. [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning#syllabus)
-
-2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
-   
-3. [Deep Learning - DeepLearningAI](https://www.coursera.org/specializations/deep-learning)
-
-4. [Udacity C++](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
-
-5. [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
-
-6. [Mathematics for Data Science](https://www.coursera.org/specializations/mathematics-for-data-science#courses)
-
-7. [Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics?)
-
-<b>Degrees</b>:
-
-1. [MSc Computer Science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
-	- Modules:
-		- Programming Languages & Software Engineering
-			- CS 421 Programming Languages and Compilers
-		- Scientific Computing
-			- CS 450 Numerical Analysis
-		- Parallel Computing
-			- CS 484 Parallel Computing
-		- Artificial Intelligence: 
-			- CS 498 Applied Machine Learning
-		- Advanced
-			- CS 598 / STAT 542 Practical Statistical Learning
-			- CS 598 / STAT 578 Advanced Bayesian Modeling
-			- CS 598 Cloud Computing Capstone OR STAT 420: Statistical Modeling in R Syllabus
-
-2. [MSc Financial Engineering](https://wqu.org/)
-	- Modules:
-		- MScFE 560: Financial Markets
-		- MScFE 610: Econometrics
-		- MScFE 620: Discrete-time Stochastic Processes
-		- MScFE 622: Continuous-time Stochastic Processes
-		- MScFE 630: Computational Finance
-		- MScFE 640: Portfolio Theory and Asset Pricing
-		- MScFE 650: Machine Learning in Finance
-		- MScFE 660: Case Studies in Risk Management
-		- MScFE 670: Data Feeds and Technology
-		- MScFE 690: Capstone Course
-
-3. MSc/PhD in Mathematics OR Physics
+6. Trading & Exchanges - Larry Harris
+7. Finding Alphas - Igor Tulchinsky
+8. Clean Code - Robert Martin
+9. Algorithmic Trading - Ernest Chan
+10. Fortune's Formula - William Poundstone
+11. Safe Haven - Mark Spitznagel
+12. Building Winning Algorithmic Trading Systems - Kevin J Davey
+13. Machine Trading - Ernest P Chan
