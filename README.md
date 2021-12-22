@@ -7,8 +7,8 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 1. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
 	- Core Concepts:
-		- Blockchain Basics
-		- Smart Contracts
+		- Blockchain Basics ✔️
+		- Smart Contracts (Ongoing)
 		- Decentralized Applications
 		- Blockchain Platforms
 
