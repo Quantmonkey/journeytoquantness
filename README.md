@@ -229,7 +229,6 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		
 15. [WQU Machine Learning](https://wqu.org/)
 	- [Certification](https://wqu.thedataincubator.com/certificate/6754527801769984)
-	- [Certification] (https://wqu.thedataincubator.com/certificate/6754527801769984_full)
 	- Core Concepts:
 		- Introduction to Machine Learning
 		- Regression and classification
