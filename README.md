@@ -29,6 +29,11 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		-  _Undecided Elective_
 		-  Financial Engineering Project
 
+4. Medium Articles
+	- Cointegration and Pairs Trading
+	- Financial Machine Learning
+	- Feature Generation in Financial Machine Learning
+
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
