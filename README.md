@@ -8,13 +8,14 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 1. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
 	- Core Concepts:
 		- Blockchain Basics ✔️
-		- Smart Contracts (Ongoing)
-		- Decentralized Applications
+		- Smart Contracts ✔️
+		- Decentralized Applications (Ongoing)
 		- Blockchain Platforms
 
 2. Books Stack:
 	-  Advances In Financial Machine Learning - Marco De Lopez
 	-  Big Data and Machine Learning in Quantitative Investment - Tony Guida
+	-  All the Mathematics You Missed: But Need to Know for Graduate School - Thomas A. Garrity
 
 3. MSc Financial Engineering (Ongoing)
 	- Modules:
@@ -30,6 +31,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		-  Financial Engineering Project
 
 4. Medium Articles
+	- EmerQuant Factor Skeleton	
 	- Cointegration and Pairs Trading
 	- Financial Machine Learning
 	- Feature Generation in Financial Machine Learning
