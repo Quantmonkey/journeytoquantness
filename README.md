@@ -1,7 +1,7 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 22 Dec 2021
+- Correct As Of: 25 Jan 2022
 
 <b>In Progress</b>:	
 
@@ -9,7 +9,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Core Concepts:
 		- Blockchain Basics ✔️
 		- Smart Contracts ✔️
-		- Decentralized Applications (Ongoing)
+		- Decentralized Applications ✔️
 		- Blockchain Platforms
 
 2. Books Stack:
@@ -39,15 +39,17 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
-1. [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
+1. [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
 
-2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
+2. [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
 
-3. [IBM Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+3. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
 
-4. [Advanced Data Science With IBM](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
+4. [IBM Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
-5. [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/) 
+5. [Advanced Data Science With IBM](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
+
+6. [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/)
 
 ------------------------------------------------------------------------------------------------------------------------
 
