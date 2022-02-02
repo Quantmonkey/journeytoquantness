@@ -5,12 +5,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:	
 
-1. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
-	- Core Concepts:
-		- Blockchain Basics ✔️
-		- Smart Contracts ✔️
-		- Decentralized Applications ✔️
-		- Blockchain Platforms
+1. 
 
 2. Books Stack:
 	-  Advances In Financial Machine Learning - Marco De Lopez
@@ -272,6 +267,14 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Unsupervised Machine Learning
 		- Deep Learning and Reinforcement Learning
 		- Specialized Models: Time Series and Survival Analysis
+
+18. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
+	- [Certification](https://coursera.org/share/77628905a3fa9207a2577d6bf3cdccf4)
+	- Core Concepts:
+		- Blockchain Basics
+		- Smart Contracts
+		- Decentralized Applications
+		- Blockchain Platforms
 
 <b>Prominent Technical Books</b>:
 
