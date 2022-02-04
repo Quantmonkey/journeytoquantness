@@ -66,6 +66,10 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 5. [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/)
 
+6. [Big Data](https://www.coursera.org/specializations/big-data)
+
+7. [IBM Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer#courses)  
+
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>Completed</b>:
