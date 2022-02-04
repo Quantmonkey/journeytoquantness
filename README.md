@@ -1,7 +1,28 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 25 Jan 2022
+- Correct As Of: 04 Feb 2022
+
+<b>Current Technical Interests</b>:
+
+1. HFT
+	- C++
+	- Big Data
+	- Data Streams
+	- Performant FinML
+	- Market Making
+
+2. Quantitative Trading
+	- Factors
+	- Effective FinML
+
+3. Blockchain
+	- Tokenomics
+	- Decentralised Fund Management Application
+
+4. Tail Hedging
+	- Options Hedging
+	- Risk Factors
 
 <b>In Progress</b>:	
 
