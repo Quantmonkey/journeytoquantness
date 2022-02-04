@@ -26,7 +26,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 
 <b>In Progress</b>:	
 
-1. 
+1. [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
 
 2. Books Stack:
 	-  Advances In Financial Machine Learning - Marco De Lopez
@@ -55,17 +55,16 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 ------------------------------------------------------------------------------------------------------------------------
 
 <b>In the Pipeline</b>:
-1. [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
 
-2. [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
+1. [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
 
-3. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
+2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
 
-4. [IBM Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+3. [IBM Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
-5. [Advanced Data Science With IBM](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
+4. [Advanced Data Science With IBM](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
 
-6. [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/)
+5. [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/)
 
 ------------------------------------------------------------------------------------------------------------------------
 
