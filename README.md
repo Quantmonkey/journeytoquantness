@@ -27,7 +27,7 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 <b>In Progress</b>:	
 
 1. [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
-	- Decentralized Finance Infrastructure
+	- Decentralized Finance Infrastructure ✔️
 	- Decentralized Finance Primitives
 	- Decentralized Finance Deep Dive
 	- Decentralized Finance Opportunities & Risks
