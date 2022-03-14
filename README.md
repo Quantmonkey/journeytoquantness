@@ -16,21 +16,13 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Factors
 	- Effective FinML
 
-3. Blockchain
-	- Tokenomics
-	- Decentralised Fund Management Application
+3. Big Data
 
 4. Tail Hedging
 	- Options Hedging
 	- Risk Factors
 
 <b>In Progress</b>:	
-
-1. [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
-	- Decentralized Finance Infrastructure ✔️
-	- Decentralized Finance Primitives
-	- Decentralized Finance Deep Dive
-	- Decentralized Finance Opportunities & Risks
 
 2. Books Stack:
 	-  Advances In Financial Machine Learning - Marco De Lopez
@@ -301,6 +293,14 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 		- Smart Contracts
 		- Decentralized Applications
 		- Blockchain Platforms
+
+19. [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
+	- [Certification](https://www.coursera.org/account/accomplishments/specialization/Z2SELA2HDV2E)
+	- Core Concepts:
+		- Decentralized Finance Infrastructure
+		- Decentralized Finance Primitives
+		- Decentralized Finance Deep Dive
+		- Decentralized Finance Opportunities & Risks
 
 <b>Prominent Technical Books</b>:
 
