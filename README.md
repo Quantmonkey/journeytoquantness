@@ -1,13 +1,13 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 04 Feb 2022
+- Correct As Of: 15 Mar 2022
 
 <b>Current Technical Interests</b>:
 
 1. HFT
-	- C++
-	- Big Data
+	- [C++](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+	- [Big Data](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark)
 	- Data Streams
 	- Performant FinML
 	- Market Making
@@ -16,11 +16,12 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Factors
 	- Effective FinML
 
-3. Big Data
-
-4. Tail Hedging
+3. Tail Hedging
 	- Options Hedging
 	- Risk Factors
+
+4. Blockchain and DeFi
+	- [Solidity](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development)
 
 <b>In Progress</b>:	
 
