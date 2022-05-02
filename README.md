@@ -1,12 +1,12 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 15 Mar 2022
+- Correct As Of: 02 May 2022
 
 <b>Current Technical Interests</b>:
+Personally interested in the evolution of the DeFi space and exploiting arbitrage and fleeting alpha opportunities in the DeFi space. The key technologies I'm looking to pick up and improve are: 1) Blockchain Technologies (Chain level, and smart contract level), 2) Big Data Technologies (To scrape, ingest and process volumous data in real time) and 3) FinML Technologies (specifically, trying to improve my financial machine learning skills to be more effective/efficient/robust/generalizable).
 
 1. HFT
-	- [C++](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 	- [Big Data](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark)
 	- Data Streams
 	- Performant FinML
@@ -34,20 +34,10 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 	- Modules:
 		- Stochastic Calculus and Quantitative Methods ✔️
 		-  Financial Econometrics ✔️
-		-  Programming and Advanced Numerical Methods (Ongoing)
-		-  Risk Analyses and Management (Ongoing)
+		-  Programming and Advanced Numerical Methods ✔️
+		-  Risk Analyses and Management ✔️
 		-  Derivatives and Fixed Income
-		-  Research Methods in Finance
-		-  Machine Learning and FinTech
-		-  C++ in Financial Engineering
-		-  _Undecided Elective_
 		-  Financial Engineering Project
-
-4. Medium Articles
-	- EmerQuant Factor Skeleton	
-	- Cointegration and Pairs Trading
-	- Financial Machine Learning
-	- Feature Generation in Financial Machine Learning
 
 ------------------------------------------------------------------------------------------------------------------------
 
