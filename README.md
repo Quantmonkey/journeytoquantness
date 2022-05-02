@@ -6,21 +6,16 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 <b>Current Technical Interests</b>:
 Personally interested in the evolution of the DeFi space and exploiting arbitrage and fleeting alpha opportunities in the DeFi space. The key technologies I'm looking to pick up and improve are: 1) Blockchain Technologies (Chain level, and smart contract level), 2) Big Data Technologies (To scrape, ingest and process volumous data in real time) and 3) FinML Technologies (specifically, trying to improve my financial machine learning skills to be more effective/efficient/robust/generalizable).
 
-1. HFT
+1. Effective FinML
 	- [Big Data](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark)
 	- Data Streams
 	- Performant FinML
-	- Market Making
 
-2. Quantitative Trading
-	- Factors
-	- Effective FinML
-
-3. Tail Hedging
+2. Tail Hedging
 	- Options Hedging
 	- Risk Factors
 
-4. Blockchain and DeFi
+3. Blockchain and DeFi
 	- [Solidity](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development)
 
 <b>In Progress</b>:	
