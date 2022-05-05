@@ -21,7 +21,8 @@ Personally interested in the evolution of the DeFi space and exploiting arbitrag
 <b>In Progress</b>:	
 
 2. Books Stack:
-	-  Advances In Financial Machine Learning - Marco De Lopez
+	-  The Business of Venture Capital - Mahendra Ramsinghani
+	-  Human Action - Mises, Ludwin Von
 	-  Big Data and Machine Learning in Quantitative Investment - Tony Guida
 	-  All the Mathematics You Missed: But Need to Know for Graduate School - Thomas A. Garrity
 
@@ -316,4 +317,6 @@ Personally interested in the evolution of the DeFi space and exploiting arbitrag
 
 13. Machine Trading - Ernest P Chan
 
-14. Cython - Kurt Smith 
+14. Cython - Kurt Smith
+
+15. Advances In Financial Machine Learning - Marco De Lopez
