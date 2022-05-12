@@ -1,13 +1,17 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 02 May 2022
+- Correct As Of: 12 May 2022
 
 <b>Current Technical Interests</b>:
-Personally interested in the evolution of the DeFi space and exploiting arbitrage and fleeting alpha opportunities in the DeFi space. The key technologies I'm looking to pick up and improve are: 1) Blockchain Technologies (Chain level, and smart contract level), 2) Big Data Technologies (To scrape, ingest and process volumous data in real time) and 3) FinML Technologies (specifically, trying to improve my financial machine learning skills to be more effective/efficient/robust/generalizable).
+Personally interested in the evolution of the DeFi space and exploiting arbitrage and fleeting alpha opportunities in the DeFi space. 
+The key technologies I'm looking to pick up and improve are: 
+	1) Blockchain Technologies (chain, smart contract), 
+	2) Big Data Technologies (scrape, ingest, process) and 
+	3) FinML Technologies (finML to be more effective/efficient/robust/generalizable)
 
 1. Effective FinML
-	- [Big Data](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark)
+	- Big Data
 	- Data Streams
 	- Performant FinML
 
@@ -32,6 +36,8 @@ Personally interested in the evolution of the DeFi space and exploiting arbitrag
 		-  Financial Econometrics ✔️
 		-  Programming and Advanced Numerical Methods ✔️
 		-  Risk Analyses and Management ✔️
+		-  Corporate Financing and Risk
+		-  Financial Technology Innovations
 		-  Derivatives and Fixed Income
 		-  Financial Engineering Project
 
@@ -41,15 +47,7 @@ Personally interested in the evolution of the DeFi space and exploiting arbitrag
 
 1. [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
 
-2. [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer#courses)
-
-3. [IBM Data Engineering](https://www.coursera.org/professional-certificates/ibm-data-engineer)
-
-4. [Advanced Data Science With IBM](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
-
-5. [Complete Modern C++](https://www.udemy.com/course/beg-modern-cpp/)
-
-6. [Big Data](https://www.coursera.org/specializations/big-data)
+2. [Big Data](https://www.coursera.org/specializations/big-data)
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -288,6 +286,13 @@ Personally interested in the evolution of the DeFi space and exploiting arbitrag
 		- Decentralized Finance Primitives
 		- Decentralized Finance Deep Dive
 		- Decentralized Finance Opportunities & Risks
+
+20. [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+	- [Certification](https://www.udemy.com/certificate/UC-5748c5f8-5042-42f3-9e23-5b9917d74cdd/)
+	- Core Concepts:
+		- Get set up on Amazon Web Services EC2 for Big Data Analysis
+		- Use Python and Spark together to analyze Big Data
+		- Use Spark Streaming to Analyze Tweets in Real Time
 
 <b>Prominent Technical Books</b>:
 
