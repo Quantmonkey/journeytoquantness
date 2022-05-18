@@ -47,6 +47,9 @@ Put on hold:
 	- Options Strategies
 	- Options Hedging
 	- Risk Factors
+2. CFA Level 2 & Level 3
+3. FRM Level 1 & Level 2
+4. CAIA Level 1 & Level 2  
 	
 <b>In Progress</b>:	
 
