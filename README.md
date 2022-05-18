@@ -78,47 +78,47 @@ Put on hold:
 <b>Courses</b>:
 
 1. IB | PE | VC
-	a. [Udemy The Complete Investment Banking Course](https://www.udemy.com/course/the-complete-investment-banking-course-2016/)
-	b. [WallStreetPrep Financial Modelling](https://www.wallstreetprep.com/my-courses/)
-	c. [CFA Level 1](https://www.cfainstitute.org/)
+	- [Udemy The Complete Investment Banking Course](https://www.udemy.com/course/the-complete-investment-banking-course-2016/)
+	- [WallStreetPrep Financial Modelling](https://www.wallstreetprep.com/my-courses/)
+	- [CFA Level 1](https://www.cfainstitute.org/)
 		- [Certification](https://basno.com/tvrodc8f)
-	d. [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/)
+	- [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/)
 		- Cerification ID: 151521274648
 
 2. General Programming | Computer Science
-	e. [Udacity Introduction to Programming](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
+	- [Udacity Introduction to Programming](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
 		- [Certification](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/055fc1ec-316e-4c6b-ab7c-38f42c3955e2.pdf)
-	f. [Udemy Beginning C++ Programming](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+	- [Udemy Beginning C++ Programming](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 		- [Certification](https://www.udemy.com/certificate/UC-UW0KKBY9/)
-	g. [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+	- [Udemy Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 		- [Certification](https://www.udemy.com/certificate/UC-Q9L3EUB7/)
-	h. [Accelerated Computer Science Fundamentals](https://www.coursera.org/learn/cs-fundamentals)
+	- [Accelerated Computer Science Fundamentals](https://www.coursera.org/learn/cs-fundamentals)
 		- [Certification](https://www.coursera.org/account/accomplishments/specialization/F59EWJL5XAP2)
-	i. [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+	- [Udemy Flutter & Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 		- [Certification](https://www.udemy.com/certificate/UC-UDNP133I/)
 
 3. Quantitative Trading | Development
-	j. [Udemy Python for Financial Analysis & Algorithmic Trading](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
+	- [Udemy Python for Financial Analysis & Algorithmic Trading](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
 		- [Certification](https://www.udemy.com/certificate/UC-8NRZZL19/)
-	k. [Udemy HFT & Dark Pools](https://www.udemy.com/course/high-frequency-trading-dark-pools/)
+	- [Udemy HFT & Dark Pools](https://www.udemy.com/course/high-frequency-trading-dark-pools/)
 
 4. Data Science
-	l. [DataCamp Data Scientist Track](https://www.datacamp.com/tracks/data-scientist-with-python?version=2)
-	m. [WQU Introduction to Data Science](https://wqu.org/)
+	- [DataCamp Data Scientist Track](https://www.datacamp.com/tracks/data-scientist-with-python?version=2)
+	- [WQU Introduction to Data Science](https://wqu.org/)
 		- [Certification](https://wqu.thedataincubator.com/certificate/5278978654863360)
-	n. [WQU Machine Learning](https://wqu.org/)
+	- [WQU Machine Learning](https://wqu.org/)
 		- [Certification](https://wqu.thedataincubator.com/certificate/6754527801769984)
-	o. [IBM Machine Learning](https://www.coursera.org/professional-certificates/ibm-machine-learning)
+	- [IBM Machine Learning](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 		- [Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T7GEJ4RASRPB)
 
 5. Data Engineering | Big Data
-	16. [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+	- [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
 		- [Certification](https://www.udemy.com/certificate/UC-5748c5f8-5042-42f3-9e23-5b9917d74cdd/)
 
 6. Blockchain | DeFi
-	17. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
+	- [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
 		- [Certification](https://coursera.org/share/77628905a3fa9207a2577d6bf3cdccf4)
-	18. [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
+	- [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
 		- [Certification](https://www.coursera.org/account/accomplishments/specialization/Z2SELA2HDV2E)
 
 <b>Prominent Technical Books</b>:
