@@ -4,50 +4,68 @@ A consolidated account of my journey from monkey to quant [And a few other weird
 - Correct As Of: 12 May 2022
 
 <b>Current Technical Interests</b>:
-Personally interested in the evolution of the DeFi space and exploiting arbitrage and fleeting alpha opportunities in the DeFi space. 
+Personally interested in the evolution of the DeFi space and exploiting arbitrage and fleeting alpha opportunities in the DeFi space.
+I'm also actively reading up on venture capital.
+
 The key technologies I'm looking to pick up and improve are: 
 	1) Blockchain Technologies (chain, smart contract), 
 	2) Big Data Technologies (scrape, ingest, process) and 
 	3) FinML Technologies (finML to be more effective/efficient/robust/generalizable)
+	
+Obstacles & Solutions:
+	1) Blockchain
+		a) Need better understanding of Solidity, and some experience writing smart contracts, need to decouple front-end
+			i. [Solidity & React](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development) ←
+			ii. [Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)
+			iii. [Ethereum & Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+			iv. [Ethereum Developer Guide](https://www.udemy.com/course/blockchain-developer/)
+			v. [Udacity Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+		b) Learning how to write proper flash bots (arbitrage and MEV) will be advantageous to know
+	2) FinML
+		a) Need better data engineering pipelines for data ingestion and data storage
+			i. [Data Analyst with SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-with-sql-server) ←
+			ii. [Data Engineering](https://app.datacamp.com/learn/career-tracks/data-engineer-with-python)
+			iii. [MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
+			iv. [Udacity Data Engineering](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
+		b) Need to learn to utilize big data frameworks for handling large scale data
+			i. [Big Data](https://www.coursera.org/specializations/big-data)
+			ii. [Udacity Streaming](https://www.udacity.com/course/data-streaming-nanodegree--nd029)
+		c) Need to learn how to build cloud-based FinML pipelines
+			i. [Practical Data Science](https://www.coursera.org/specializations/practical-data-science)
+			ii. [Udacity AWS ML Engineer](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
+		d) Improving my data science understanding & toolkits
+			i. [Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
+			ii. [Imperial College Data Mining](https://www.coursera.org/specializations/data-mining#courses)
+			iii. [Udacity Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+			iv. [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+	3) Frontend
+		a) Internal UI | Interactive websites to appeal to a Web3 crowd
+			i. [Trading Bot With UI](https://www.udemy.com/course/cryptocurrency-trading-bot-with-user-interface-in-python/)
 
-1. Effective FinML
-	- Big Data
-	- Data Streams
-	- Performant FinML
-
-2. Tail Hedging
-	- Options Hedging
-	- Risk Factors
-
-3. Blockchain and DeFi
-	- [Solidity](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development)
-
+Put on hold:
+	1. Options & Tail Hedging (Interest but low priority)
+		- Options Strategies
+		- Options Hedging
+		- Risk Factors
+	
 <b>In Progress</b>:	
 
-2. Books Stack:
-	-  The Business of Venture Capital - Mahendra Ramsinghani
+1. Books Stack:
+	-  The Business of Venture Capital - Mahendra Ramsinghani ←
 	-  Human Action - Mises, Ludwin Von
 	-  Big Data and Machine Learning in Quantitative Investment - Tony Guida
 	-  All the Mathematics You Missed: But Need to Know for Graduate School - Thomas A. Garrity
 
-3. MSc Financial Engineering (Ongoing)
+2. MSc Financial Engineering (Ongoing)
 	- Modules:
 		- Stochastic Calculus and Quantitative Methods ✔️
 		-  Financial Econometrics ✔️
 		-  Programming and Advanced Numerical Methods ✔️
 		-  Risk Analyses and Management ✔️
-		-  Corporate Financing and Risk
-		-  Financial Technology Innovations
+		-  Corporate Financing and Risk ←
+		-  Financial Technology Innovations ←
 		-  Derivatives and Fixed Income
 		-  Financial Engineering Project
-
-------------------------------------------------------------------------------------------------------------------------
-
-<b>In the Pipeline</b>:
-
-1. [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
-
-2. [Big Data](https://www.coursera.org/specializations/big-data)
 
 ------------------------------------------------------------------------------------------------------------------------
 
