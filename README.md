@@ -21,6 +21,7 @@ Obstacles & Solutions:
 			iv. [Ethereum Developer Guide](https://www.udemy.com/course/blockchain-developer/)
 			v. [Udacity Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
 		b) Learning how to write proper flash bots (arbitrage and MEV) will be advantageous to know
+		
 	2) FinML
 		a) Need better data engineering pipelines for data ingestion and data storage
 			i. [Data Analyst with SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-with-sql-server) ←
@@ -38,6 +39,7 @@ Obstacles & Solutions:
 			ii. [Imperial College Data Mining](https://www.coursera.org/specializations/data-mining#courses)
 			iii. [Udacity Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 			iv. [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+			
 	3) Frontend
 		a) Internal UI | Interactive websites to appeal to a Web3 crowd
 			i. [Trading Bot With UI](https://www.udemy.com/course/cryptocurrency-trading-bot-with-user-interface-in-python/)
