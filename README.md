@@ -14,33 +14,33 @@ The key technologies I'm looking to pick up and improve are:
 	
 Obstacles & Solutions:
 1. Blockchain
-	a. Need better understanding of Solidity, and some experience writing smart contracts, need to decouple front-end
-		i. [Solidity & React](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development) ←
-		ii. [Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)
-		iii. [Ethereum & Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
-		iv. [Ethereum Developer Guide](https://www.udemy.com/course/blockchain-developer/)
-		v. [Udacity Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
-	b. Learning how to write proper flash bots (arbitrage and MEV) will be advantageous to know
+	- Need better understanding of Solidity, and some experience writing smart contracts, need to decouple front-end
+		1. [Solidity & React](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development) ←
+		2. [Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)
+		3. [Ethereum & Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+		4. [Ethereum Developer Guide](https://www.udemy.com/course/blockchain-developer/)
+		5. [Udacity Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+	- Learning how to write proper flash bots (arbitrage and MEV) will be advantageous to know
 2. FinML
-	a. Need better data engineering pipelines for data ingestion and data storage
-		i. [Data Analyst with SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-with-sql-server) ←
-		ii. [Data Engineering](https://app.datacamp.com/learn/career-tracks/data-engineer-with-python)
-		iii. [MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
-		iv. [Udacity Data Engineering](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
-	b. Need to learn to utilize big data frameworks for handling large scale data
-		i. [Big Data](https://www.coursera.org/specializations/big-data)
-		ii. [Udacity Streaming](https://www.udacity.com/course/data-streaming-nanodegree--nd029)
-	c. Need to learn how to build cloud-based FinML pipelines
-		i. [Practical Data Science](https://www.coursera.org/specializations/practical-data-science)
-		ii. [Udacity AWS ML Engineer](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
-	d. Improving my data science understanding & toolkits
-		i. [Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
-		ii. [Imperial College Data Mining](https://www.coursera.org/specializations/data-mining#courses)
-		iii. [Udacity Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
-		iv. [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+	- Need better data engineering pipelines for data ingestion and data storage
+		1. [Data Analyst with SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-with-sql-server) ←
+		2. [Data Engineering](https://app.datacamp.com/learn/career-tracks/data-engineer-with-python)
+		3. [MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
+		4. [Udacity Data Engineering](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
+	- Need to learn to utilize big data frameworks for handling large scale data
+		1. [Big Data](https://www.coursera.org/specializations/big-data)
+		2. [Udacity Streaming](https://www.udacity.com/course/data-streaming-nanodegree--nd029)
+	- Need to learn how to build cloud-based FinML pipelines
+		1. [Practical Data Science](https://www.coursera.org/specializations/practical-data-science)
+		2. [Udacity AWS ML Engineer](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
+	- Improving my data science understanding & toolkits
+		1. [Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
+		2. [Imperial College Data Mining](https://www.coursera.org/specializations/data-mining#courses)
+		3. [Udacity Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+		4. [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 3. Frontend
-	a. Internal UI | Interactive websites to appeal to a Web3 crowd
-		i. [Trading Bot With UI](https://www.udemy.com/course/cryptocurrency-trading-bot-with-user-interface-in-python/)
+	- Internal UI | Interactive websites to appeal to a Web3 crowd
+		1. [Trading Bot With UI](https://www.udemy.com/course/cryptocurrency-trading-bot-with-user-interface-in-python/)
 
 Put on hold:
 1. Options & Tail Hedging (Interest but low priority)
