@@ -121,34 +121,27 @@ Put on hold:
 	- [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
 		- [Certification](https://www.coursera.org/account/accomplishments/specialization/Z2SELA2HDV2E)
 
-<b>Prominent Technical Books</b>:
+<b>Prominent Books of Interest</b>:
 
-1. Grokking Algorithms - Bhargava
-
-2. Quantitative Trading - Ernest Chan
-
-3. Inside the Black Box - Rishi K Narang
-
-4. Computer Science Distilled - Wladston
-
-5. Misbehavior of Markets - Mandelbrot
-
-6. Trading & Exchanges - Larry Harris
-
-7. Finding Alphas - Igor Tulchinsky
-
-8. Clean Code - Robert Martin
-
-9. Algorithmic Trading - Ernest Chan
-
-10. Fortune's Formula - William Poundstone
-
-11. Safe Haven - Mark Spitznagel
-
-12. Building Winning Algorithmic Trading Systems - Kevin J Davey
-
-13. Machine Trading - Ernest P Chan
-
-14. Cython - Kurt Smith
-
-15. Advances In Financial Machine Learning - Marco De Lopez
+1. [Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_2?crid=22BCMONGFB2GH&keywords=Black+Swan&qid=1652863736&sprefix=zero+to+one%2Caps%2C389&sr=8-2) - Nassim Nicholas Taleb
+2. [Fooled By Randomness](https://www.amazon.com/gp/product/081297381X?ref_=dbs_m_mng_rwt_calw_tpbk_1&storeType=ebooks&qid=1652863736&sr=8-2) - Nassim Nicholas Taleb
+3. [Antifragile](https://www.amazon.com/gp/product/0812979680?ref_=dbs_m_mng_rwt_calw_tpbk_2&storeType=ebooks&qid=1652863736&sr=8-2) - Nassim Nicholas Taleb
+4. [Skin In The Game](https://www.amazon.com/gp/product/0425284646?ref_=dbs_m_mng_rwt_calw_tpbk_4&storeType=ebooks&qid=1652863736&sr=8-2) - Nassim Nicholas Taleb
+5. [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_1?crid=3JKU749DZYN1M&keywords=Principles&qid=1652863828&sprefix=princi%2Caps%2C376&sr=8-1) - Ray Dalio
+6. [Algorithmic Trading](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146/ref=sr_1_7?crid=1G9OWDGAJGM6U&keywords=Ernest+P+Chan&qid=1652863862&sprefix=ernest%2Caps%2C646&sr=8-7) - Ernest Chan
+7. [Quantitative Trading](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064/ref=sr_1_1?crid=1G9OWDGAJGM6U&keywords=Ernest+P+Chan&qid=1652863862&sprefix=ernest%2Caps%2C646&sr=8-1) - Ernest Chan
+8. [Machine Trading](https://www.amazon.com/Machine-Trading-Deploying-Computer-Algorithms/dp/1119219604/ref=sr_1_2?crid=1G9OWDGAJGM6U&keywords=Ernest+P+Chan&qid=1652863862&sprefix=ernest%2Caps%2C646&sr=8-2) - Ernest P Chan
+9. [Inside the Black Box](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1652863920&sr=8-1) - Rishi K Narang
+10. [Trading & Exchanges](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708/ref=sr_1_1?crid=7DLCV7ZPHCXE&keywords=trading+%26+exchanges&qid=1652863948&sprefix=Trading+%26+Exchanges%2Caps%2C787&sr=8-1) - Larry Harris
+11. [Finding Alphas](https://www.amazon.com/Finding-Alphas-Quantitative-Approach-Strategies/dp/1119571219/ref=sr_1_1?crid=26HPWFXM5JOWA&keywords=Finding+Alphas&qid=1652863979&sprefix=finding+alp%2Caps%2C374&sr=8-1) - Igor Tulchinsky
+12. [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?crid=2MI7W15WE0CRI&keywords=Clean+code&qid=1652863999&sprefix=cl%2Caps%2C286&sr=8-1) - Robert Martin
+13. [Fortune's Formula](https://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos/dp/0809045990/ref=sr_1_1?crid=V15YP934BKW4&keywords=Fortune+formula&qid=1652864020&sprefix=fortune+formu%2Caps%2C308&sr=8-1) - William Poundstone
+14. [Safe Haven](https://www.amazon.com/Safe-Haven-Investing-Financial-Storms/dp/1119401798/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1652864037&sr=8-7) - Mark Spitznagel
+15. [Building Winning Algorithmic Trading Systems](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems/dp/1118778987/ref=sr_1_1?keywords=Building+Winning+Algorithmic+Trading+Systems&qid=1652864066&sr=8-1) - Kevin J Davey
+16. [Cython](https://www.amazon.com/Cython-Programmers-Kurt-W-Smith/dp/1491901551/ref=sr_1_1?crid=3TYK8D0436O94&keywords=Cython&qid=1652864082&sprefix=c%2Caps%2C535&sr=8-1) - Kurt Smith
+17. [Advances In Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=sr_1_1?crid=OHY0S18V8TGV&keywords=advances+in+financial+machine+learning&qid=1652864102&sprefix=Advances+in+Financial%2Caps%2C499&sr=8-1) - Marco De Lopez
+18. [What It Takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1652863627&sr=8-1) - Stephen Schwarzman
+19. [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?crid=1UQN9JUMPCAM3&keywords=Zero+To+One&qid=1652863677&sprefix=zero+to+o%2Caps%2C540&sr=8-1) - Peter Thiel
+20. [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?crid=1VF3RYF2SQENQ&keywords=Computer+science+distilled&qid=1652864118&sprefix=computer+scien%2Caps%2C398&sr=8-1) - Wladston
+21. [Misbehavior of Markets](https://www.amazon.com/Misbehavior-Markets-Fractal-Financial-Turbulence/dp/0465043577/ref=sr_1_1?crid=1037KTO00MHWX&keywords=Misbehavior+of+markets&qid=1652864149&sprefix=misb%2Caps%2C611&sr=8-1) - Mandelbrot
+22. [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_1?crid=1L9SIVRN0UPFV&keywords=Grokking+Algorithms&qid=1652864162&sprefix=grokking%2Caps%2C986&sr=8-1) - Bhargava
