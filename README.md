@@ -15,11 +15,10 @@ The key technologies I'm looking to pick up and improve are:
 Obstacles & Solutions:
 1. Blockchain
 	- Need better understanding of Solidity, and some experience writing smart contracts, need to decouple front-end
-		1. [Solidity & React](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development) ←
-		2. [Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)
-		3. [Ethereum & Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
-		4. [Ethereum Developer Guide](https://www.udemy.com/course/blockchain-developer/)
-		5. [Udacity Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+		1. [Blockchain](https://www.udemy.com/course/build-your-blockchain-az/) ←
+		2. [Ethereum & Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+		3. [Ethereum Developer Guide](https://www.udemy.com/course/blockchain-developer/)
+		4. [Udacity Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
 	- Learning how to write proper flash bots (arbitrage and MEV) will be advantageous to know
 2. FinML
 	- Need better data engineering pipelines for data ingestion and data storage
@@ -122,6 +121,8 @@ Put on hold:
 		- [Certification](https://coursera.org/share/77628905a3fa9207a2577d6bf3cdccf4)
 	- [Decentralised Finance](https://www.coursera.org/specializations/decentralized-finance-duke#courses)
 		- [Certification](https://www.coursera.org/account/accomplishments/specialization/Z2SELA2HDV2E)
+	- [Solidity & React](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development)
+		- [Certification](https://www.udemy.com/certificate/UC-983f5346-f276-434e-89b1-bf13002ecf1f/)
 
 <b>Prominent Books of Interest</b>:
 
