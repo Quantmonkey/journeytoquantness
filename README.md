@@ -40,7 +40,7 @@ Obstacles & Solutions:
 		4. [Udacity Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 3. Frontend
 	- Internal UI | Interactive websites to appeal to a Web3 crowd
-		1. [Trading Bot With UI](https://www.udemy.com/course/cryptocurrency-trading-bot-with-user-interface-in-python/)
+		1. [Trading Bot With UI](https://www.udemy.com/course/cryptocurrency-trading-bot-with-user-interface-in-python/) ←
 
 Put on hold:
 1. Options & Tail Hedging (Interest but low priority)
