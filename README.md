@@ -55,7 +55,7 @@ Put on hold:
 
 1. Books Stack:
 	-  Human Action - Mises, Ludwin Von
-	-  Big Data and Machine Learning in Quantitative Investment - Tony Guida
+	-  Big Data and Machine Learning in Quantitative Investment - Tony Guida ←
 	-  All the Mathematics You Missed: But Need to Know for Graduate School - Thomas A. Garrity
 
 2. MSc Financial Engineering (Ongoing)
