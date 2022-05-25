@@ -54,7 +54,6 @@ Put on hold:
 <b>In Progress</b>:	
 
 1. Books Stack:
-	-  The Business of Venture Capital - Mahendra Ramsinghani ←
 	-  Human Action - Mises, Ludwin Von
 	-  Big Data and Machine Learning in Quantitative Investment - Tony Guida
 	-  All the Mathematics You Missed: But Need to Know for Graduate School - Thomas A. Garrity
@@ -145,6 +144,7 @@ Put on hold:
 17. [Advances In Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=sr_1_1?crid=OHY0S18V8TGV&keywords=advances+in+financial+machine+learning&qid=1652864102&sprefix=Advances+in+Financial%2Caps%2C499&sr=8-1) - Marco De Lopez
 18. [What It Takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1652863627&sr=8-1) - Stephen Schwarzman
 19. [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?crid=1UQN9JUMPCAM3&keywords=Zero+To+One&qid=1652863677&sprefix=zero+to+o%2Caps%2C540&sr=8-1) - Peter Thiel
-20. [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?crid=1VF3RYF2SQENQ&keywords=Computer+science+distilled&qid=1652864118&sprefix=computer+scien%2Caps%2C398&sr=8-1) - Wladston
-21. [Misbehavior of Markets](https://www.amazon.com/Misbehavior-Markets-Fractal-Financial-Turbulence/dp/0465043577/ref=sr_1_1?crid=1037KTO00MHWX&keywords=Misbehavior+of+markets&qid=1652864149&sprefix=misb%2Caps%2C611&sr=8-1) - Mandelbrot
-22. [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_1?crid=1L9SIVRN0UPFV&keywords=Grokking+Algorithms&qid=1652864162&sprefix=grokking%2Caps%2C986&sr=8-1) - Bhargava
+20. [The Business of Venture Capital](https://www.amazon.com/Business-Venture-Capital-Website-Structuring/dp/1119639689/ref=sr_1_1?keywords=The+Business+of+Venture+Capital&qid=1653494233&sr=8-1)- Mahendra Ramsinghani
+21. [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?crid=1VF3RYF2SQENQ&keywords=Computer+science+distilled&qid=1652864118&sprefix=computer+scien%2Caps%2C398&sr=8-1) - Wladston
+22. [Misbehavior of Markets](https://www.amazon.com/Misbehavior-Markets-Fractal-Financial-Turbulence/dp/0465043577/ref=sr_1_1?crid=1037KTO00MHWX&keywords=Misbehavior+of+markets&qid=1652864149&sprefix=misb%2Caps%2C611&sr=8-1) - Mandelbrot
+23. [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_1?crid=1L9SIVRN0UPFV&keywords=Grokking+Algorithms&qid=1652864162&sprefix=grokking%2Caps%2C986&sr=8-1) - Bhargava
