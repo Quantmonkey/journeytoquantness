@@ -15,8 +15,8 @@ The key technologies I'm looking to pick up and improve are:
 Obstacles & Solutions:
 1. Blockchain
 	- Need better understanding of Solidity, and some experience writing smart contracts, need to decouple front-end
-		1. [Blockchain](https://www.udemy.com/course/build-your-blockchain-az/) ←
-		2. [Ethereum & Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+		1. [Ethereum & Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) ←
+		2. [Blockchain](https://www.udemy.com/course/build-your-blockchain-az/) 
 		3. [Ethereum Developer Guide](https://www.udemy.com/course/blockchain-developer/)
 		4. [Udacity Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
 	- Learning how to write proper flash bots (arbitrage and MEV) will be advantageous to know
