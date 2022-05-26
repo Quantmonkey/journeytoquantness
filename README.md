@@ -65,7 +65,9 @@ Put on hold:
 		-  Risk Analyses and Management ✔️
 		-  Corporate Financing and Risk ←
 		-  Financial Technology Innovations ←
+		-  Financial Data Science
 		-  Derivatives and Fixed Income
+		-  Financial Machine Learning
 		-  Financial Engineering Project
 
 ------------------------------------------------------------------------------------------------------------------------
