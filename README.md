@@ -64,7 +64,7 @@ Put on hold:
 		-  Programming and Advanced Numerical Methods ✔️
 		-  Risk Analyses and Management ✔️
 		-  Corporate Financing and Risk ←
-		-  Financial Technology Innovations ←
+		-  Financial Technology Innovations in Algorithmic Trading, Optimal Execution and Deep Learning ←
 		-  Financial Data Science
 		-  Derivatives and Fixed Income
 		-  Financial Machine Learning
