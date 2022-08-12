@@ -1,7 +1,7 @@
 # journeytoquantness
 A consolidated account of my journey from monkey to quant [And a few other weird things thrown into the mix]
 - Journey Started on: 1 Mar 2019
-- Correct As Of: 12 May 2022
+- Correct As Of: 12 Aug 2022
 
 <b>Current Technical Interests</b>:
 Personally interested in the evolution of the DeFi space and exploiting arbitrage and fleeting alpha opportunities in the DeFi space.
@@ -62,10 +62,10 @@ Put on hold:
 		-  Financial Econometrics ✔️
 		-  Programming and Advanced Numerical Methods ✔️
 		-  Risk Analyses and Management ✔️
-		-  Corporate Financing and Risk ←
-		-  Financial Technology Innovations in Algorithmic Trading, Optimal Execution and Deep Learning ←
-		-  Financial Data Science
-		-  Derivatives and Fixed Income
+		-  Corporate Financing and Risk ✔️
+		-  Financial Technology Innovations in Algorithmic Trading, Optimal Execution and Deep Learning ✔️
+		-  Portfolio Management ←
+		-  Derivatives and Fixed Income ←
 		-  Financial Machine Learning
 		-  Financial Engineering Project
 
@@ -116,6 +116,8 @@ Put on hold:
 5. Data Engineering | Big Data
 	- [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
 		- [Certification](https://www.udemy.com/certificate/UC-5748c5f8-5042-42f3-9e23-5b9917d74cdd/)
+	- [SQL Server Developer](https://app.datacamp.com/learn/career-tracks/sql-server-developer?version=2)
+		- [Certification](https://www.datacamp.com/statement-of-accomplishment/track/5672b3f0d10db801df53c00e7b6177c998333c2c)
 
 6. Blockchain | DeFi
 	- [Blockchain Specialization](https://www.coursera.org/specializations/blockchain#courses)
