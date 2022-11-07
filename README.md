@@ -64,8 +64,8 @@ Put on hold:
 		-  Risk Analyses and Management ✔️
 		-  Corporate Financing and Risk ✔️
 		-  Financial Technology Innovations in Algorithmic Trading, Optimal Execution and Deep Learning ✔️
-		-  Portfolio Management ←
-		-  Derivatives and Fixed Income ←
+		-  Portfolio Management ✔️
+		-  Derivatives and Fixed Income ✔️
 		-  Financial Machine Learning
 		-  Financial Engineering Project
 
